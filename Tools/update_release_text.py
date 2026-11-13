@@ -1,0 +1,18 @@
+from pathlib import Path
+p=Path('Tools/finalize_release.py');s=p.read_text(encoding='utf-8').replace('Workbench Arena','Workbench').replace('WorkbenchArena-Windows-x64.zip','Workbench-Windows-x64.zip')
+s=s.replace('номер камеры 0–5 и порог щипка. Начните с камеры 0','настоящие названия камер, пункт «ПО УМОЛЧАНИЮ» и порог щипка. Начните с автоматического выбора')
+s=s.replace('Сохраняются отдельные сборки','При первом запуске автоматически копируется прежнее сохранение из `LocalLow/Workbench/Workbench Arena`, если нового файла ещё нет. Старый файл сохраняется.\n\nСохраняются отдельные сборки')
+s=s.replace('(root/\'README_RU.md\').write_text(readme,encoding=\'utf-8\')','readme+="\\n## Обновление по замечаниям\\n\\nОбмен и замена деталей, новый HUD и шкалы, переходы, частицы, коннекторы, плавное движение и урон стен, настройка подсказок описаны в `Docs/POLISH_RU.md`.\\n"\n(root/\'README_RU.md\').write_text(readme,encoding=\'utf-8\')')
+s=s.replace('1478','1774')
+s=s.replace('Визуально просмотрены конструктор','Дополнительно проверены обмен и замена модулей, возврат в запас, фильтр слотов и скрытие единичного количества, настройка подсказок и выбор камеры по умолчанию. Визуально просмотрены конструктор')
+s=s.replace('(root/\'Docs/VERIFICATION_RU.md\').write_text(report,encoding=\'utf-8\')','report+="\\n## Изменения этой версии\\n\\nВсе изменения по 17 изображениям пользователя перечислены в `POLISH_RU.md`. Новые правила дополнительно проверяют атомарность обмена, замену крупных модулей, коннекторы, урон стен 50% без постоянного урона, разгон и торможение, стрельбу бота в активный щит и однократную миграцию сохранений. Исходная папка `huh` сохранена, просмотрены все 33 контактных листа 315 ресурсов.\\n"\n(root/\'Docs/VERIFICATION_RU.md\').write_text(report,encoding=\'utf-8\')')
+s=s.replace('(root/\'DEVELOPMENT_STATUS.md\').write_text(status,encoding=\'utf-8\')','status+="\\n## Правки по приёмке 13 ноября\\n\\nРеализованы и повторно проверены изменения из `Docs/POLISH_RU.md`: новое имя с миграцией; UI/инвентарь/шкалы; swap/replace; коннекторы; переходы/popup; имена камер; движение/стены/колёса; частицы/следы; камера/мебель; стрельба в щит. Старый EXE сохранён в `Builds/PreviousWindows-20261113`; актуален `Builds/Windows/Workbench.exe`.\\n"\n(root/\'DEVELOPMENT_STATUS.md\').write_text(status,encoding=\'utf-8\')')
+# Replace historical balance timings with current CSV evidence, retaining comparison as an observation.
+s=s.replace('import json,hashlib,shutil,zipfile,datetime','import json,hashlib,shutil,zipfile,datetime,csv,statistics')
+s=s.replace('datahash=','rows=list(csv.DictReader((results/\'campaign-simulation.csv\').open(encoding=\'utf-8\')));durations=[float(r[\'seconds\']) for r in rows];assert len(rows)==80 and all(r[\'winner\']!=\'-2\' for r in rows)\nmedian=statistics.median(durations);fast=min(durations);slow=max(durations)\ndatahash=')
+s=s.replace('медиана 17,7 с','медиана {median:.1f} с').replace('диапазон 6,6–88,7 с','диапазон {fast:.1f}–{slow:.1f} с')
+s=s.replace('Первичный прогон 80 боёв оказался слишком коротким; HP увеличены и серия повторена. Второй прогон:','После правок физики и бота повторён прогон:')
+p.write_text(s,encoding='utf-8')
+p=Path('Tools/verify_release.py');s=p.read_text(encoding='utf-8').replace('Workbench Arena','Workbench').replace('WorkbenchArena-Windows-x64.zip','Workbench-Windows-x64.zip');s=s.replace("assert not changed,changed","assert not changed,changed\nhuh=json.loads((root/'TestResults/HuhAudit/inventory.json').read_text(encoding='utf-8'))\nassert all(hashlib.sha256((root/'huh'/e['path']).read_bytes()).hexdigest()==e['sha256'] for e in huh)")
+s=s.replace("'changed':changed","'changed':changed,'huh_files_unchanged':len(huh)")
+p.write_text(s,encoding='utf-8')

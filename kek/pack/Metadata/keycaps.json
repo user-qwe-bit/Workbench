@@ -1,0 +1,30 @@
+{
+  "keys": [
+    {
+      "key": "W",
+      "up": "Assets/RobotArenaArt/UI/Input/Keys/W_up.png",
+      "down": "Assets/RobotArenaArt/UI/Input/Keys/W_down.png"
+    },
+    {
+      "key": "A",
+      "up": "Assets/RobotArenaArt/UI/Input/Keys/A_up.png",
+      "down": "Assets/RobotArenaArt/UI/Input/Keys/A_down.png"
+    },
+    {
+      "key": "S",
+      "up": "Assets/RobotArenaArt/UI/Input/Keys/S_up.png",
+      "down": "Assets/RobotArenaArt/UI/Input/Keys/S_down.png"
+    },
+    {
+      "key": "D",
+      "up": "Assets/RobotArenaArt/UI/Input/Keys/D_up.png",
+      "down": "Assets/RobotArenaArt/UI/Input/Keys/D_down.png"
+    },
+    {
+      "key": "Esc",
+      "up": "Assets/RobotArenaArt/UI/Input/Keys/Esc_up.png",
+      "down": "Assets/RobotArenaArt/UI/Input/Keys/Esc_down.png"
+    }
+  ],
+  "note": "Custom glyph is already drawn on each key. Do not add a TTF character on top. Up/down are controlled by input, never auto-cycled."
+}

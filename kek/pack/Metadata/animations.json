@@ -1,0 +1,2151 @@
+{
+  "clips": [
+    {
+      "name": "wheel_vertical",
+      "ids": [
+        "ROB-01",
+        "AN-03"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Wheels/wheel_vertical/frame_00.png",
+        "Assets/RobotArenaArt/Wheels/wheel_vertical/frame_01.png",
+        "Assets/RobotArenaArt/Wheels/wheel_vertical/frame_02.png",
+        "Assets/RobotArenaArt/Wheels/wheel_vertical/frame_03.png"
+      ],
+      "fps": 10,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "notes": ""
+    },
+    {
+      "name": "wheel_horizontal",
+      "ids": [
+        "ROB-02"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Wheels/wheel_horizontal/frame_00.png",
+        "Assets/RobotArenaArt/Wheels/wheel_horizontal/frame_01.png",
+        "Assets/RobotArenaArt/Wheels/wheel_horizontal/frame_02.png",
+        "Assets/RobotArenaArt/Wheels/wheel_horizontal/frame_03.png"
+      ],
+      "fps": 10,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "notes": ""
+    },
+    {
+      "name": "muzzle_machinegun",
+      "ids": [
+        "FX-01",
+        "AN-06"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Effects/muzzle_machinegun/frame_00.png",
+        "Assets/RobotArenaArt/Effects/muzzle_machinegun/frame_01.png",
+        "Assets/RobotArenaArt/Effects/muzzle_machinegun/frame_02.png"
+      ],
+      "fps": 24,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "notes": ""
+    },
+    {
+      "name": "muzzle_rifle",
+      "ids": [
+        "FX-02",
+        "AN-06"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Effects/muzzle_rifle/frame_00.png",
+        "Assets/RobotArenaArt/Effects/muzzle_rifle/frame_01.png",
+        "Assets/RobotArenaArt/Effects/muzzle_rifle/frame_02.png"
+      ],
+      "fps": 24,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "notes": ""
+    },
+    {
+      "name": "muzzle_grenade",
+      "ids": [
+        "FX-03",
+        "AN-06"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Effects/muzzle_grenade/frame_00.png",
+        "Assets/RobotArenaArt/Effects/muzzle_grenade/frame_01.png",
+        "Assets/RobotArenaArt/Effects/muzzle_grenade/frame_02.png"
+      ],
+      "fps": 24,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "notes": ""
+    },
+    {
+      "name": "muzzle_shotgun",
+      "ids": [
+        "FX-04",
+        "AN-06"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Effects/muzzle_shotgun/frame_00.png",
+        "Assets/RobotArenaArt/Effects/muzzle_shotgun/frame_01.png",
+        "Assets/RobotArenaArt/Effects/muzzle_shotgun/frame_02.png"
+      ],
+      "fps": 24,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "notes": ""
+    },
+    {
+      "name": "hit_module",
+      "ids": [
+        "FX-05",
+        "AN-07"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Effects/hit_module/frame_00.png",
+        "Assets/RobotArenaArt/Effects/hit_module/frame_01.png",
+        "Assets/RobotArenaArt/Effects/hit_module/frame_02.png",
+        "Assets/RobotArenaArt/Effects/hit_module/frame_03.png"
+      ],
+      "fps": 18,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "notes": ""
+    },
+    {
+      "name": "hit_wall",
+      "ids": [
+        "FX-06",
+        "AN-07"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Effects/hit_wall/frame_00.png",
+        "Assets/RobotArenaArt/Effects/hit_wall/frame_01.png",
+        "Assets/RobotArenaArt/Effects/hit_wall/frame_02.png",
+        "Assets/RobotArenaArt/Effects/hit_wall/frame_03.png"
+      ],
+      "fps": 18,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "notes": ""
+    },
+    {
+      "name": "collision",
+      "ids": [
+        "FX-07",
+        "AN-08"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Effects/collision/frame_00.png",
+        "Assets/RobotArenaArt/Effects/collision/frame_01.png",
+        "Assets/RobotArenaArt/Effects/collision/frame_02.png"
+      ],
+      "fps": 18,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "notes": ""
+    },
+    {
+      "name": "break_battery",
+      "ids": [
+        "FX-12",
+        "AN-11"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Effects/break_battery/frame_00.png",
+        "Assets/RobotArenaArt/Effects/break_battery/frame_01.png",
+        "Assets/RobotArenaArt/Effects/break_battery/frame_02.png",
+        "Assets/RobotArenaArt/Effects/break_battery/frame_03.png",
+        "Assets/RobotArenaArt/Effects/break_battery/frame_04.png"
+      ],
+      "fps": 15,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "notes": ""
+    },
+    {
+      "name": "break_module_large",
+      "ids": [
+        "FX-09",
+        "AN-09"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Effects/break_module_large/frame_00.png",
+        "Assets/RobotArenaArt/Effects/break_module_large/frame_01.png",
+        "Assets/RobotArenaArt/Effects/break_module_large/frame_02.png",
+        "Assets/RobotArenaArt/Effects/break_module_large/frame_03.png",
+        "Assets/RobotArenaArt/Effects/break_module_large/frame_04.png",
+        "Assets/RobotArenaArt/Effects/break_module_large/frame_05.png"
+      ],
+      "fps": 15,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "notes": ""
+    },
+    {
+      "name": "break_core",
+      "ids": [
+        "FX-11",
+        "AN-10"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Effects/break_core/frame_00.png",
+        "Assets/RobotArenaArt/Effects/break_core/frame_01.png",
+        "Assets/RobotArenaArt/Effects/break_core/frame_02.png",
+        "Assets/RobotArenaArt/Effects/break_core/frame_03.png",
+        "Assets/RobotArenaArt/Effects/break_core/frame_04.png",
+        "Assets/RobotArenaArt/Effects/break_core/frame_05.png",
+        "Assets/RobotArenaArt/Effects/break_core/frame_06.png",
+        "Assets/RobotArenaArt/Effects/break_core/frame_07.png"
+      ],
+      "fps": 16,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "notes": ""
+    },
+    {
+      "name": "explode_grenade",
+      "ids": [
+        "FX-13",
+        "AN-12"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Effects/explode_grenade/frame_00.png",
+        "Assets/RobotArenaArt/Effects/explode_grenade/frame_01.png",
+        "Assets/RobotArenaArt/Effects/explode_grenade/frame_02.png",
+        "Assets/RobotArenaArt/Effects/explode_grenade/frame_03.png",
+        "Assets/RobotArenaArt/Effects/explode_grenade/frame_04.png",
+        "Assets/RobotArenaArt/Effects/explode_grenade/frame_05.png"
+      ],
+      "fps": 16,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "notes": ""
+    },
+    {
+      "name": "break_module",
+      "ids": [
+        "FX-08",
+        "AN-09"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Effects/break_module/frame_00.png",
+        "Assets/RobotArenaArt/Effects/break_module/frame_01.png",
+        "Assets/RobotArenaArt/Effects/break_module/frame_02.png",
+        "Assets/RobotArenaArt/Effects/break_module/frame_03.png",
+        "Assets/RobotArenaArt/Effects/break_module/frame_04.png",
+        "Assets/RobotArenaArt/Effects/break_module/frame_05.png"
+      ],
+      "fps": 15,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "notes": ""
+    },
+    {
+      "name": "break_module_tall",
+      "ids": [
+        "FX-10"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Effects/break_module_tall/frame_00.png",
+        "Assets/RobotArenaArt/Effects/break_module_tall/frame_01.png",
+        "Assets/RobotArenaArt/Effects/break_module_tall/frame_02.png",
+        "Assets/RobotArenaArt/Effects/break_module_tall/frame_03.png",
+        "Assets/RobotArenaArt/Effects/break_module_tall/frame_04.png",
+        "Assets/RobotArenaArt/Effects/break_module_tall/frame_05.png"
+      ],
+      "fps": 15,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "notes": ""
+    },
+    {
+      "name": "shield_reflect",
+      "ids": [
+        "SHD-05",
+        "AN-15"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Effects/shield_reflect/frame_00.png",
+        "Assets/RobotArenaArt/Effects/shield_reflect/frame_01.png",
+        "Assets/RobotArenaArt/Effects/shield_reflect/frame_02.png",
+        "Assets/RobotArenaArt/Effects/shield_reflect/frame_03.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "notes": ""
+    },
+    {
+      "name": "power_loss",
+      "ids": [
+        "FX-14",
+        "AN-13"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Effects/power_loss/frame_00.png",
+        "Assets/RobotArenaArt/Effects/power_loss/frame_01.png",
+        "Assets/RobotArenaArt/Effects/power_loss/frame_02.png"
+      ],
+      "fps": 12,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "notes": ""
+    },
+    {
+      "name": "no_power_blink",
+      "ids": [
+        "MOD-13"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Modules/no_power_blink/frame_00.png",
+        "Assets/RobotArenaArt/Modules/no_power_blink/frame_01.png"
+      ],
+      "fps": 2,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "notes": ""
+    },
+    {
+      "name": "grenade_spin",
+      "ids": [
+        "PRJ-04",
+        "AN-05"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Projectiles/grenade_spin/frame_00.png",
+        "Assets/RobotArenaArt/Projectiles/grenade_spin/frame_01.png",
+        "Assets/RobotArenaArt/Projectiles/grenade_spin/frame_02.png",
+        "Assets/RobotArenaArt/Projectiles/grenade_spin/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "notes": ""
+    },
+    {
+      "name": "core_indicator",
+      "ids": [
+        "AN-01"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Modules/core_indicator/frame_00.png",
+        "Assets/RobotArenaArt/Modules/core_indicator/frame_01.png",
+        "Assets/RobotArenaArt/Modules/core_indicator/frame_02.png",
+        "Assets/RobotArenaArt/Modules/core_indicator/frame_03.png"
+      ],
+      "fps": 5,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "notes": ""
+    },
+    {
+      "name": "battery_indicator",
+      "ids": [
+        "AN-02"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Modules/battery_indicator/frame_00.png",
+        "Assets/RobotArenaArt/Modules/battery_indicator/frame_01.png",
+        "Assets/RobotArenaArt/Modules/battery_indicator/frame_02.png"
+      ],
+      "fps": 3,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "notes": ""
+    },
+    {
+      "name": "shield_emitter",
+      "ids": [
+        "SHD-02"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/shield_emitter/frame_00.png",
+        "Assets/RobotArenaArt/Shield/shield_emitter/frame_01.png",
+        "Assets/RobotArenaArt/Shield/shield_emitter/frame_02.png",
+        "Assets/RobotArenaArt/Shield/shield_emitter/frame_03.png"
+      ],
+      "fps": 6,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "notes": ""
+    },
+    {
+      "name": "mouse",
+      "ids": [
+        "TUT-02"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/UI/Input/mouse/frame_00.png",
+        "Assets/RobotArenaArt/UI/Input/mouse/frame_01.png",
+        "Assets/RobotArenaArt/UI/Input/mouse/frame_02.png"
+      ],
+      "fps": 0,
+      "loop": false,
+      "mode": "states",
+      "end": "hold",
+      "notes": ""
+    },
+    {
+      "name": "keycap",
+      "ids": [
+        "TUT-01"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/UI/Input/keycap/frame_00.png",
+        "Assets/RobotArenaArt/UI/Input/keycap/frame_01.png"
+      ],
+      "fps": 0,
+      "loop": false,
+      "mode": "states",
+      "end": "hold",
+      "notes": ""
+    },
+    {
+      "name": "pinch_tutorial",
+      "ids": [
+        "TUT-07",
+        "TUT-09",
+        "TUT-08",
+        "AN-19"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/UI/Input/pinch_tutorial/frame_00.png",
+        "Assets/RobotArenaArt/UI/Input/pinch_tutorial/frame_01.png",
+        "Assets/RobotArenaArt/UI/Input/pinch_tutorial/frame_02.png"
+      ],
+      "fps": 4,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "notes": "0=open,1=closing,2=pinch; reverse to release"
+    },
+    {
+      "name": "hit_confirm",
+      "ids": [
+        "UI-F06"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/UI/Combat/hit_confirm/frame_00.png",
+        "Assets/RobotArenaArt/UI/Combat/hit_confirm/frame_01.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "notes": ""
+    },
+    {
+      "name": "star_award",
+      "ids": [
+        "UI-C05",
+        "AN-17"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/UI/Campaign/star_award/frame_00.png",
+        "Assets/RobotArenaArt/UI/Campaign/star_award/frame_01.png",
+        "Assets/RobotArenaArt/UI/Campaign/star_award/frame_02.png",
+        "Assets/RobotArenaArt/UI/Campaign/star_award/frame_03.png"
+      ],
+      "fps": 12,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "notes": ""
+    },
+    {
+      "name": "activate_dir_00",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_00/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_00/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_00/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 0
+    },
+    {
+      "name": "active_dir_00",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_00/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_00/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_00/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_00/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 0
+    },
+    {
+      "name": "deactivate_dir_00",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_00/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_00/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_00/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 0
+    },
+    {
+      "name": "activate_dir_01",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_01/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_01/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_01/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 1
+    },
+    {
+      "name": "active_dir_01",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_01/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_01/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_01/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_01/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 1
+    },
+    {
+      "name": "deactivate_dir_01",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_01/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_01/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_01/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 1
+    },
+    {
+      "name": "activate_dir_02",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_02/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_02/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_02/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 2
+    },
+    {
+      "name": "active_dir_02",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_02/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_02/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_02/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_02/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 2
+    },
+    {
+      "name": "deactivate_dir_02",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_02/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_02/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_02/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 2
+    },
+    {
+      "name": "activate_dir_03",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_03/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_03/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_03/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 3
+    },
+    {
+      "name": "active_dir_03",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_03/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_03/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_03/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_03/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 3
+    },
+    {
+      "name": "deactivate_dir_03",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_03/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_03/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_03/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 3
+    },
+    {
+      "name": "activate_dir_04",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_04/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_04/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_04/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 4
+    },
+    {
+      "name": "active_dir_04",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_04/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_04/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_04/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_04/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 4
+    },
+    {
+      "name": "deactivate_dir_04",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_04/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_04/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_04/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 4
+    },
+    {
+      "name": "activate_dir_05",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_05/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_05/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_05/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 5
+    },
+    {
+      "name": "active_dir_05",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_05/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_05/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_05/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_05/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 5
+    },
+    {
+      "name": "deactivate_dir_05",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_05/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_05/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_05/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 5
+    },
+    {
+      "name": "activate_dir_06",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_06/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_06/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_06/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 6
+    },
+    {
+      "name": "active_dir_06",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_06/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_06/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_06/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_06/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 6
+    },
+    {
+      "name": "deactivate_dir_06",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_06/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_06/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_06/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 6
+    },
+    {
+      "name": "activate_dir_07",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_07/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_07/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_07/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 7
+    },
+    {
+      "name": "active_dir_07",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_07/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_07/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_07/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_07/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 7
+    },
+    {
+      "name": "deactivate_dir_07",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_07/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_07/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_07/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 7
+    },
+    {
+      "name": "activate_dir_08",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_08/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_08/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_08/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 8
+    },
+    {
+      "name": "active_dir_08",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_08/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_08/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_08/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_08/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 8
+    },
+    {
+      "name": "deactivate_dir_08",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_08/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_08/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_08/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 8
+    },
+    {
+      "name": "activate_dir_09",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_09/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_09/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_09/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 9
+    },
+    {
+      "name": "active_dir_09",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_09/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_09/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_09/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_09/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 9
+    },
+    {
+      "name": "deactivate_dir_09",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_09/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_09/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_09/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 9
+    },
+    {
+      "name": "activate_dir_10",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_10/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_10/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_10/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 10
+    },
+    {
+      "name": "active_dir_10",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_10/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_10/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_10/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_10/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 10
+    },
+    {
+      "name": "deactivate_dir_10",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_10/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_10/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_10/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 10
+    },
+    {
+      "name": "activate_dir_11",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_11/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_11/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_11/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 11
+    },
+    {
+      "name": "active_dir_11",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_11/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_11/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_11/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_11/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 11
+    },
+    {
+      "name": "deactivate_dir_11",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_11/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_11/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_11/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 11
+    },
+    {
+      "name": "activate_dir_12",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_12/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_12/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_12/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 12
+    },
+    {
+      "name": "active_dir_12",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_12/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_12/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_12/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_12/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 12
+    },
+    {
+      "name": "deactivate_dir_12",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_12/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_12/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_12/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 12
+    },
+    {
+      "name": "activate_dir_13",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_13/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_13/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_13/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 13
+    },
+    {
+      "name": "active_dir_13",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_13/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_13/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_13/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_13/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 13
+    },
+    {
+      "name": "deactivate_dir_13",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_13/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_13/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_13/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 13
+    },
+    {
+      "name": "activate_dir_14",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_14/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_14/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_14/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 14
+    },
+    {
+      "name": "active_dir_14",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_14/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_14/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_14/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_14/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 14
+    },
+    {
+      "name": "deactivate_dir_14",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_14/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_14/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_14/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 14
+    },
+    {
+      "name": "activate_dir_15",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_15/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_15/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_15/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 15
+    },
+    {
+      "name": "active_dir_15",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_15/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_15/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_15/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_15/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 15
+    },
+    {
+      "name": "deactivate_dir_15",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_15/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_15/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_15/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 15
+    },
+    {
+      "name": "activate_dir_16",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_16/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_16/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_16/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 16
+    },
+    {
+      "name": "active_dir_16",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_16/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_16/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_16/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_16/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 16
+    },
+    {
+      "name": "deactivate_dir_16",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_16/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_16/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_16/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 16
+    },
+    {
+      "name": "activate_dir_17",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_17/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_17/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_17/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 17
+    },
+    {
+      "name": "active_dir_17",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_17/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_17/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_17/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_17/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 17
+    },
+    {
+      "name": "deactivate_dir_17",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_17/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_17/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_17/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 17
+    },
+    {
+      "name": "activate_dir_18",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_18/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_18/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_18/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 18
+    },
+    {
+      "name": "active_dir_18",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_18/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_18/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_18/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_18/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 18
+    },
+    {
+      "name": "deactivate_dir_18",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_18/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_18/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_18/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 18
+    },
+    {
+      "name": "activate_dir_19",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_19/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_19/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_19/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 19
+    },
+    {
+      "name": "active_dir_19",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_19/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_19/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_19/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_19/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 19
+    },
+    {
+      "name": "deactivate_dir_19",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_19/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_19/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_19/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 19
+    },
+    {
+      "name": "activate_dir_20",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_20/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_20/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_20/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 20
+    },
+    {
+      "name": "active_dir_20",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_20/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_20/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_20/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_20/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 20
+    },
+    {
+      "name": "deactivate_dir_20",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_20/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_20/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_20/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 20
+    },
+    {
+      "name": "activate_dir_21",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_21/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_21/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_21/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 21
+    },
+    {
+      "name": "active_dir_21",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_21/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_21/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_21/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_21/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 21
+    },
+    {
+      "name": "deactivate_dir_21",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_21/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_21/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_21/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 21
+    },
+    {
+      "name": "activate_dir_22",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_22/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_22/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_22/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 22
+    },
+    {
+      "name": "active_dir_22",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_22/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_22/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_22/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_22/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 22
+    },
+    {
+      "name": "deactivate_dir_22",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_22/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_22/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_22/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 22
+    },
+    {
+      "name": "activate_dir_23",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_23/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_23/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_23/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 23
+    },
+    {
+      "name": "active_dir_23",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_23/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_23/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_23/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_23/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 23
+    },
+    {
+      "name": "deactivate_dir_23",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_23/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_23/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_23/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 23
+    },
+    {
+      "name": "activate_dir_24",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_24/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_24/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_24/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 24
+    },
+    {
+      "name": "active_dir_24",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_24/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_24/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_24/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_24/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 24
+    },
+    {
+      "name": "deactivate_dir_24",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_24/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_24/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_24/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 24
+    },
+    {
+      "name": "activate_dir_25",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_25/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_25/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_25/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 25
+    },
+    {
+      "name": "active_dir_25",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_25/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_25/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_25/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_25/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 25
+    },
+    {
+      "name": "deactivate_dir_25",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_25/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_25/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_25/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 25
+    },
+    {
+      "name": "activate_dir_26",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_26/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_26/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_26/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 26
+    },
+    {
+      "name": "active_dir_26",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_26/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_26/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_26/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_26/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 26
+    },
+    {
+      "name": "deactivate_dir_26",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_26/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_26/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_26/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 26
+    },
+    {
+      "name": "activate_dir_27",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_27/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_27/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_27/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 27
+    },
+    {
+      "name": "active_dir_27",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_27/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_27/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_27/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_27/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 27
+    },
+    {
+      "name": "deactivate_dir_27",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_27/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_27/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_27/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 27
+    },
+    {
+      "name": "activate_dir_28",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_28/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_28/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_28/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 28
+    },
+    {
+      "name": "active_dir_28",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_28/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_28/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_28/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_28/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 28
+    },
+    {
+      "name": "deactivate_dir_28",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_28/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_28/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_28/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 28
+    },
+    {
+      "name": "activate_dir_29",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_29/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_29/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_29/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 29
+    },
+    {
+      "name": "active_dir_29",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_29/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_29/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_29/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_29/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 29
+    },
+    {
+      "name": "deactivate_dir_29",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_29/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_29/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_29/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 29
+    },
+    {
+      "name": "activate_dir_30",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_30/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_30/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_30/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 30
+    },
+    {
+      "name": "active_dir_30",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_30/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_30/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_30/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_30/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 30
+    },
+    {
+      "name": "deactivate_dir_30",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_30/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_30/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_30/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 30
+    },
+    {
+      "name": "activate_dir_31",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/activate_dir_31/frame_00.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_31/frame_01.png",
+        "Assets/RobotArenaArt/Shield/activate_dir_31/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hold",
+      "shield_direction": 31
+    },
+    {
+      "name": "active_dir_31",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/active_dir_31/frame_00.png",
+        "Assets/RobotArenaArt/Shield/active_dir_31/frame_01.png",
+        "Assets/RobotArenaArt/Shield/active_dir_31/frame_02.png",
+        "Assets/RobotArenaArt/Shield/active_dir_31/frame_03.png"
+      ],
+      "fps": 8,
+      "loop": true,
+      "mode": "animation",
+      "end": "repeat",
+      "shield_direction": 31
+    },
+    {
+      "name": "deactivate_dir_31",
+      "ids": [
+        "AN-14"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/Shield/deactivate_dir_31/frame_00.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_31/frame_01.png",
+        "Assets/RobotArenaArt/Shield/deactivate_dir_31/frame_02.png"
+      ],
+      "fps": 20,
+      "loop": false,
+      "mode": "animation",
+      "end": "hide",
+      "shield_direction": 31
+    },
+    {
+      "name": "key_W",
+      "ids": [
+        "TUT-01"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/UI/Input/Keys/W_up.png",
+        "Assets/RobotArenaArt/UI/Input/Keys/W_down.png"
+      ],
+      "fps": 0,
+      "loop": false,
+      "mode": "states",
+      "end": "hold"
+    },
+    {
+      "name": "key_A",
+      "ids": [
+        "TUT-01"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/UI/Input/Keys/A_up.png",
+        "Assets/RobotArenaArt/UI/Input/Keys/A_down.png"
+      ],
+      "fps": 0,
+      "loop": false,
+      "mode": "states",
+      "end": "hold"
+    },
+    {
+      "name": "key_S",
+      "ids": [
+        "TUT-01"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/UI/Input/Keys/S_up.png",
+        "Assets/RobotArenaArt/UI/Input/Keys/S_down.png"
+      ],
+      "fps": 0,
+      "loop": false,
+      "mode": "states",
+      "end": "hold"
+    },
+    {
+      "name": "key_D",
+      "ids": [
+        "TUT-01"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/UI/Input/Keys/D_up.png",
+        "Assets/RobotArenaArt/UI/Input/Keys/D_down.png"
+      ],
+      "fps": 0,
+      "loop": false,
+      "mode": "states",
+      "end": "hold"
+    },
+    {
+      "name": "key_Esc",
+      "ids": [
+        "TUT-01"
+      ],
+      "frames": [
+        "Assets/RobotArenaArt/UI/Input/Keys/Esc_up.png",
+        "Assets/RobotArenaArt/UI/Input/Keys/Esc_down.png"
+      ],
+      "fps": 0,
+      "loop": false,
+      "mode": "states",
+      "end": "hold"
+    }
+  ],
+  "procedural": [
+    {
+      "id": "AN-04",
+      "name": "weapon_recoil",
+      "source": "Metadata/turrets.json",
+      "rule": "Use integer directional offsets from recoil_px; preserve fixed base; emit shot at actual gameplay event from current muzzle + recoil offset."
+    },
+    {
+      "id": "AN-16",
+      "name": "button_states",
+      "source": "Metadata/nine-slice.json",
+      "rule": "normal / hover / pressed / disabled. Select state, never auto-cycle."
+    },
+    {
+      "id": "AN-18",
+      "name": "drag_tutorial",
+      "source": [
+        "TUT-03",
+        "UI-B09",
+        "UI-B06",
+        "ICO-17"
+      ],
+      "steps": [
+        "cursor approaches inventory",
+        "grab + highlight",
+        "move sprite by integer pixels",
+        "show valid ghost",
+        "release + check"
+      ],
+      "rule": "Sequence actual UI objects, not a baked movie."
+    }
+  ]
+}

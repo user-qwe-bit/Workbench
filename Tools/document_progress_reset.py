@@ -1,0 +1,10 @@
+from pathlib import Path
+p=Path('Tools/finalize_release.py');s=p.read_text(encoding='utf-8')
+s=s.replace("critical=(results/'critical-tests.txt').read_text();assert 'FAIL' not in critical", "critical=(results/'critical-tests.txt').read_text();assert 'FAIL' not in critical\nreset=(build/'TestResults/ResetProgress/reset.txt').read_text();assert 'COMPLETE' in reset and 'FAIL' not in reset")
+s=s.replace('## Проект и баланс\n','## Сброс достижений\n\nВ НАСТРОЙКАХ нажмите **СБРОСИТЬ ПРОГРЕСС** и подтвердите действие. Обнулятся звёзды всех десяти уровней; сборки роботов, схемы и настройки сохранятся. «ОТМЕНА» или Escape закрывают подтверждение без изменений.\n\n## Проект и баланс\n')
+s=s.replace('## Известные ограничения и ручная приёмка','- **{reset.count(\'PASS \')} проверок сброса в Windows EXE** на отдельном сохранении: подтверждение, отмена и Escape, очистка всех 50 звёзд, сохранение сборок/настроек, повторное чтение файла, обновление всех иконок, доступность уровней и сохранение паузы. Пользовательский прогресс не изменялся. Отчёт и изображения: `TestResults/ResetProgress`.\n\n## Известные ограничения и ручная приёмка')
+s=s.replace("shutil.copytree(build/'TestResults/Runtime',results/'Runtime',dirs_exist_ok=True)","shutil.copytree(build/'TestResults/Runtime',results/'Runtime',dirs_exist_ok=True)\nshutil.copytree(build/'TestResults/ResetProgress',results/'ResetProgress',dirs_exist_ok=True)")
+s=s.replace('## Принятые решения\n','## Сброс прогресса\nКнопка «Сбросить прогресс» в настройках очищает все 50 звёзд после подтверждения; сборки, схемы, настройки и обучение сохраняются. Проверены отмена/Escape, сохранение после загрузки и пауза. Тестовый сценарий `-workbench-reset-check` использует отдельную папку ResetSave.\n\n## Принятые решения\n')
+s=s.replace("'player_checks':smoke.count('PASS ')","'player_checks':smoke.count('PASS '),'reset_checks':reset.count('PASS ')")
+p.write_text(s,encoding='utf-8')
+p=Path('Docs/POLISH_RU.md');s=p.read_text(encoding='utf-8').replace('## Проверки\n\n## Сброс достижений','## Сброс достижений').replace('## Проверки сброса\n','## Проверки\n');p.write_text(s,encoding='utf-8')

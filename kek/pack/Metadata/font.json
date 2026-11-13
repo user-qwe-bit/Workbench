@@ -1,0 +1,16 @@
+{
+  "source": "https://nattogames.itch.io/m6x11cyrillic",
+  "authors": [
+    "Daniel Linssen",
+    "Natto Games"
+  ],
+  "license_note": "Free to use with attribution, according to author page checked 2026-11-12. Keep credit in game and distribution.",
+  "source_sha256": "3802b1a603faa21757b32d88cd6a06fbed2201162c873b3c64e77ddb6dc39553",
+  "sizes": [
+    16,
+    32,
+    48,
+    64
+  ],
+  "bitmap_atlas": "Assets/RobotArenaArt/Fonts/m6x11cyrillic_16.png"
+}

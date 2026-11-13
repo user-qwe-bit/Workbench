@@ -1,0 +1,196 @@
+{
+  "passed": true,
+  "png_sprites": 1479,
+  "catalogue_items": 190,
+  "animation_and_state_sets": 128,
+  "nine_slice_templates": 21,
+  "sprite_sheets": 42,
+  "intentional_empty_assets": [
+    "Assets/RobotArenaArt/Modules/Masks/armor_team.png",
+    "Assets/RobotArenaArt/Shield/Cooldown/step_00.png",
+    "Assets/RobotArenaArt/UI/NineSlice/Parts/mat_border/c.png"
+  ],
+  "errors": [],
+  "verified": [
+    "PNG dimensions",
+    "binary alpha",
+    "module footprint sizes",
+    "same player/enemy silhouettes",
+    "only teal pixels recolored",
+    "animation canvas consistency",
+    "32 directions and muzzle coordinates",
+    "exact 9-slice reconstruction",
+    "all catalogue paths",
+    "FullHD dimensions and exact1:1sprite placement",
+    "all four native arena viewports",
+    "47neighbor-driven connected walls with no internal seams",
+    "original small props at native size outsidearena, intentional child tools",
+    "continuous rim and allcorner joints",
+    "grid path connectivity for footprints1..5 and spawn clearance",
+    "16floorvariants and quiet arena materials",
+    "surface border compatibility and nonrepeated neighbors",
+    "custom digits and keys",
+    "packed sheet pixels equal current PNGs",
+    "Config/Metadata synchronization",
+    "provided font SHA-256"
+  ],
+  "not_verified": [
+    "Unity compilation and Editor import execution",
+    "play mode, gameplay balance, continuous runtime collisions, audio",
+    "webcam and voice recognition",
+    "final shield collider geometry"
+  ],
+  "maximum_muzzle_distance_to_opaque_pixel": {
+    "machinegun": 1,
+    "rifle": 1,
+    "grenade": 1,
+    "shotgun": 1
+  },
+  "unique_surface_variants": {
+    "floor": 16,
+    "arena": 3,
+    "mat": 16
+  },
+  "arena_clearance": [
+    {
+      "arena": 1,
+      "checks": [
+        {
+          "size": 1,
+          "components": 1,
+          "valid_positions": 1840,
+          "spawns_clear": true
+        },
+        {
+          "size": 2,
+          "components": 1,
+          "valid_positions": 1653,
+          "spawns_clear": true
+        },
+        {
+          "size": 3,
+          "components": 1,
+          "valid_positions": 1452,
+          "spawns_clear": true
+        },
+        {
+          "size": 4,
+          "components": 1,
+          "valid_positions": 1237,
+          "spawns_clear": true
+        },
+        {
+          "size": 5,
+          "components": 1,
+          "valid_positions": 1008,
+          "spawns_clear": true
+        }
+      ]
+    },
+    {
+      "arena": 2,
+      "checks": [
+        {
+          "size": 1,
+          "components": 1,
+          "valid_positions": 1828,
+          "spawns_clear": true
+        },
+        {
+          "size": 2,
+          "components": 1,
+          "valid_positions": 1637,
+          "spawns_clear": true
+        },
+        {
+          "size": 3,
+          "components": 1,
+          "valid_positions": 1440,
+          "spawns_clear": true
+        },
+        {
+          "size": 4,
+          "components": 1,
+          "valid_positions": 1237,
+          "spawns_clear": true
+        },
+        {
+          "size": 5,
+          "components": 1,
+          "valid_positions": 1028,
+          "spawns_clear": true
+        }
+      ]
+    },
+    {
+      "arena": 3,
+      "checks": [
+        {
+          "size": 1,
+          "components": 1,
+          "valid_positions": 1776,
+          "spawns_clear": true
+        },
+        {
+          "size": 2,
+          "components": 1,
+          "valid_positions": 1601,
+          "spawns_clear": true
+        },
+        {
+          "size": 3,
+          "components": 1,
+          "valid_positions": 1428,
+          "spawns_clear": true
+        },
+        {
+          "size": 4,
+          "components": 1,
+          "valid_positions": 1253,
+          "spawns_clear": true
+        },
+        {
+          "size": 5,
+          "components": 1,
+          "valid_positions": 1076,
+          "spawns_clear": true
+        }
+      ]
+    },
+    {
+      "arena": 4,
+      "checks": [
+        {
+          "size": 1,
+          "components": 1,
+          "valid_positions": 1834,
+          "spawns_clear": true
+        },
+        {
+          "size": 2,
+          "components": 1,
+          "valid_positions": 1645,
+          "spawns_clear": true
+        },
+        {
+          "size": 3,
+          "components": 1,
+          "valid_positions": 1438,
+          "spawns_clear": true
+        },
+        {
+          "size": 4,
+          "components": 1,
+          "valid_positions": 1213,
+          "spawns_clear": true
+        },
+        {
+          "size": 5,
+          "components": 1,
+          "valid_positions": 984,
+          "spawns_clear": true
+        }
+      ]
+    }
+  ]
+}

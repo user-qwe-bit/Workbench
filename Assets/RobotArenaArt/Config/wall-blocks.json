@@ -1,0 +1,213 @@
+{
+  "schema_version": 3,
+  "cell_px": 64,
+  "collider_px": [
+    0,
+    0,
+    64,
+    64
+  ],
+  "neighbor_bits": {
+    "N": 1,
+    "E": 2,
+    "S": 4,
+    "W": 8,
+    "NE": 16,
+    "SE": 32,
+    "SW": 64,
+    "NW": 128
+  },
+  "diagonal_rule": "Keep diagonal only if both adjacent cardinal neighbors are occupied. There are47valid masks.",
+  "tiles": [
+    {
+      "mask": 0,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_000.png"
+    },
+    {
+      "mask": 1,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_001.png"
+    },
+    {
+      "mask": 2,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_002.png"
+    },
+    {
+      "mask": 3,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_003.png"
+    },
+    {
+      "mask": 4,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_004.png"
+    },
+    {
+      "mask": 5,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_005.png"
+    },
+    {
+      "mask": 6,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_006.png"
+    },
+    {
+      "mask": 7,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_007.png"
+    },
+    {
+      "mask": 8,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_008.png"
+    },
+    {
+      "mask": 9,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_009.png"
+    },
+    {
+      "mask": 10,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_010.png"
+    },
+    {
+      "mask": 11,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_011.png"
+    },
+    {
+      "mask": 12,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_012.png"
+    },
+    {
+      "mask": 13,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_013.png"
+    },
+    {
+      "mask": 14,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_014.png"
+    },
+    {
+      "mask": 15,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_015.png"
+    },
+    {
+      "mask": 19,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_019.png"
+    },
+    {
+      "mask": 23,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_023.png"
+    },
+    {
+      "mask": 27,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_027.png"
+    },
+    {
+      "mask": 31,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_031.png"
+    },
+    {
+      "mask": 38,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_038.png"
+    },
+    {
+      "mask": 39,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_039.png"
+    },
+    {
+      "mask": 46,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_046.png"
+    },
+    {
+      "mask": 47,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_047.png"
+    },
+    {
+      "mask": 55,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_055.png"
+    },
+    {
+      "mask": 63,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_063.png"
+    },
+    {
+      "mask": 76,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_076.png"
+    },
+    {
+      "mask": 77,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_077.png"
+    },
+    {
+      "mask": 78,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_078.png"
+    },
+    {
+      "mask": 79,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_079.png"
+    },
+    {
+      "mask": 95,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_095.png"
+    },
+    {
+      "mask": 110,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_110.png"
+    },
+    {
+      "mask": 111,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_111.png"
+    },
+    {
+      "mask": 127,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_127.png"
+    },
+    {
+      "mask": 137,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_137.png"
+    },
+    {
+      "mask": 139,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_139.png"
+    },
+    {
+      "mask": 141,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_141.png"
+    },
+    {
+      "mask": 143,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_143.png"
+    },
+    {
+      "mask": 155,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_155.png"
+    },
+    {
+      "mask": 159,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_159.png"
+    },
+    {
+      "mask": 175,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_175.png"
+    },
+    {
+      "mask": 191,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_191.png"
+    },
+    {
+      "mask": 205,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_205.png"
+    },
+    {
+      "mask": 207,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_207.png"
+    },
+    {
+      "mask": 223,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_223.png"
+    },
+    {
+      "mask": 239,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_239.png"
+    },
+    {
+      "mask": 255,
+      "path": "Assets/RobotArenaArt/Environment/Walls/Connected/mask_255.png"
+    }
+  ],
+  "texture_period_px": 32,
+  "rule": "All occupied cells retain64x64collision. Connected cells have no internal frame/bolts/gap. Every tile has same stripephase; never rotate or randomize tiles. Select mask from topology only."
+}

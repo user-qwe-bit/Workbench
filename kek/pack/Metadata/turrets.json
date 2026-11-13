@@ -1,0 +1,2358 @@
+{
+  "image_coordinates": "origin top left; y down",
+  "direction_angles": "counterclockwise from right",
+  "turrets": [
+    {
+      "name": "machinegun",
+      "directions": [
+        {
+          "index": 0,
+          "angle_degrees_ccw": 0.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_00.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_00.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              59,
+              28
+            ],
+            [
+              59,
+              36
+            ]
+          ]
+        },
+        {
+          "index": 1,
+          "angle_degrees_ccw": 11.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_01.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_01.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              58,
+              23
+            ],
+            [
+              59,
+              31
+            ]
+          ]
+        },
+        {
+          "index": 2,
+          "angle_degrees_ccw": 22.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_02.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_02.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              55,
+              18
+            ],
+            [
+              58,
+              25
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "angle_degrees_ccw": 33.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_03.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_03.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              52,
+              14
+            ],
+            [
+              57,
+              20
+            ]
+          ]
+        },
+        {
+          "index": 4,
+          "angle_degrees_ccw": 45.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_04.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_04.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              48,
+              10
+            ],
+            [
+              54,
+              16
+            ]
+          ]
+        },
+        {
+          "index": 5,
+          "angle_degrees_ccw": 56.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_05.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_05.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              44,
+              7
+            ],
+            [
+              50,
+              12
+            ]
+          ]
+        },
+        {
+          "index": 6,
+          "angle_degrees_ccw": 67.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_06.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_06.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              39,
+              6
+            ],
+            [
+              46,
+              9
+            ]
+          ]
+        },
+        {
+          "index": 7,
+          "angle_degrees_ccw": 78.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_07.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_07.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              33,
+              5
+            ],
+            [
+              41,
+              6
+            ]
+          ]
+        },
+        {
+          "index": 8,
+          "angle_degrees_ccw": 90.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_08.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_08.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              28,
+              5
+            ],
+            [
+              36,
+              5
+            ]
+          ]
+        },
+        {
+          "index": 9,
+          "angle_degrees_ccw": 101.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_09.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_09.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              23,
+              6
+            ],
+            [
+              31,
+              5
+            ]
+          ]
+        },
+        {
+          "index": 10,
+          "angle_degrees_ccw": 112.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_10.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_10.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              18,
+              9
+            ],
+            [
+              25,
+              6
+            ]
+          ]
+        },
+        {
+          "index": 11,
+          "angle_degrees_ccw": 123.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_11.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_11.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              14,
+              12
+            ],
+            [
+              20,
+              7
+            ]
+          ]
+        },
+        {
+          "index": 12,
+          "angle_degrees_ccw": 135.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_12.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_12.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              10,
+              16
+            ],
+            [
+              16,
+              10
+            ]
+          ]
+        },
+        {
+          "index": 13,
+          "angle_degrees_ccw": 146.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_13.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_13.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              7,
+              20
+            ],
+            [
+              12,
+              14
+            ]
+          ]
+        },
+        {
+          "index": 14,
+          "angle_degrees_ccw": 157.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_14.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_14.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              6,
+              25
+            ],
+            [
+              9,
+              18
+            ]
+          ]
+        },
+        {
+          "index": 15,
+          "angle_degrees_ccw": 168.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_15.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_15.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              5,
+              31
+            ],
+            [
+              6,
+              23
+            ]
+          ]
+        },
+        {
+          "index": 16,
+          "angle_degrees_ccw": 180.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_16.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_16.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              5,
+              36
+            ],
+            [
+              5,
+              28
+            ]
+          ]
+        },
+        {
+          "index": 17,
+          "angle_degrees_ccw": 191.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_17.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_17.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              6,
+              41
+            ],
+            [
+              5,
+              33
+            ]
+          ]
+        },
+        {
+          "index": 18,
+          "angle_degrees_ccw": 202.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_18.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_18.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              9,
+              46
+            ],
+            [
+              6,
+              39
+            ]
+          ]
+        },
+        {
+          "index": 19,
+          "angle_degrees_ccw": 213.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_19.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_19.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              12,
+              50
+            ],
+            [
+              7,
+              44
+            ]
+          ]
+        },
+        {
+          "index": 20,
+          "angle_degrees_ccw": 225.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_20.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_20.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              16,
+              54
+            ],
+            [
+              10,
+              48
+            ]
+          ]
+        },
+        {
+          "index": 21,
+          "angle_degrees_ccw": 236.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_21.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_21.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              20,
+              57
+            ],
+            [
+              14,
+              52
+            ]
+          ]
+        },
+        {
+          "index": 22,
+          "angle_degrees_ccw": 247.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_22.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_22.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              25,
+              58
+            ],
+            [
+              18,
+              55
+            ]
+          ]
+        },
+        {
+          "index": 23,
+          "angle_degrees_ccw": 258.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_23.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_23.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              31,
+              59
+            ],
+            [
+              23,
+              58
+            ]
+          ]
+        },
+        {
+          "index": 24,
+          "angle_degrees_ccw": 270.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_24.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_24.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              36,
+              59
+            ],
+            [
+              28,
+              59
+            ]
+          ]
+        },
+        {
+          "index": 25,
+          "angle_degrees_ccw": 281.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_25.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_25.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              41,
+              58
+            ],
+            [
+              33,
+              59
+            ]
+          ]
+        },
+        {
+          "index": 26,
+          "angle_degrees_ccw": 292.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_26.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_26.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              46,
+              55
+            ],
+            [
+              39,
+              58
+            ]
+          ]
+        },
+        {
+          "index": 27,
+          "angle_degrees_ccw": 303.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_27.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_27.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              50,
+              52
+            ],
+            [
+              44,
+              57
+            ]
+          ]
+        },
+        {
+          "index": 28,
+          "angle_degrees_ccw": 315.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_28.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_28.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              54,
+              48
+            ],
+            [
+              48,
+              54
+            ]
+          ]
+        },
+        {
+          "index": 29,
+          "angle_degrees_ccw": 326.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_29.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_29.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              57,
+              44
+            ],
+            [
+              52,
+              50
+            ]
+          ]
+        },
+        {
+          "index": 30,
+          "angle_degrees_ccw": 337.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_30.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_30.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              58,
+              39
+            ],
+            [
+              55,
+              46
+            ]
+          ]
+        },
+        {
+          "index": 31,
+          "angle_degrees_ccw": 348.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_31.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_31.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              59,
+              33
+            ],
+            [
+              58,
+              41
+            ]
+          ]
+        }
+      ],
+      "selection": "round(angleDegrees / 11.25) modulo 32",
+      "recoil_px": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "rifle",
+      "directions": [
+        {
+          "index": 0,
+          "angle_degrees_ccw": 0.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_00.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_00.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              123,
+              64
+            ]
+          ]
+        },
+        {
+          "index": 1,
+          "angle_degrees_ccw": 11.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_01.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_01.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              122,
+              52
+            ]
+          ]
+        },
+        {
+          "index": 2,
+          "angle_degrees_ccw": 22.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_02.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_02.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              119,
+              41
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "angle_degrees_ccw": 33.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_03.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_03.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              113,
+              31
+            ]
+          ]
+        },
+        {
+          "index": 4,
+          "angle_degrees_ccw": 45.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_04.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_04.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              106,
+              22
+            ]
+          ]
+        },
+        {
+          "index": 5,
+          "angle_degrees_ccw": 56.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_05.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_05.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              97,
+              15
+            ]
+          ]
+        },
+        {
+          "index": 6,
+          "angle_degrees_ccw": 67.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_06.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_06.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              87,
+              9
+            ]
+          ]
+        },
+        {
+          "index": 7,
+          "angle_degrees_ccw": 78.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_07.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_07.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              76,
+              6
+            ]
+          ]
+        },
+        {
+          "index": 8,
+          "angle_degrees_ccw": 90.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_08.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_08.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              64,
+              5
+            ]
+          ]
+        },
+        {
+          "index": 9,
+          "angle_degrees_ccw": 101.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_09.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_09.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              52,
+              6
+            ]
+          ]
+        },
+        {
+          "index": 10,
+          "angle_degrees_ccw": 112.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_10.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_10.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              41,
+              9
+            ]
+          ]
+        },
+        {
+          "index": 11,
+          "angle_degrees_ccw": 123.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_11.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_11.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              31,
+              15
+            ]
+          ]
+        },
+        {
+          "index": 12,
+          "angle_degrees_ccw": 135.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_12.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_12.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              22,
+              22
+            ]
+          ]
+        },
+        {
+          "index": 13,
+          "angle_degrees_ccw": 146.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_13.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_13.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              15,
+              31
+            ]
+          ]
+        },
+        {
+          "index": 14,
+          "angle_degrees_ccw": 157.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_14.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_14.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              9,
+              41
+            ]
+          ]
+        },
+        {
+          "index": 15,
+          "angle_degrees_ccw": 168.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_15.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_15.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              6,
+              52
+            ]
+          ]
+        },
+        {
+          "index": 16,
+          "angle_degrees_ccw": 180.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_16.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_16.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              5,
+              64
+            ]
+          ]
+        },
+        {
+          "index": 17,
+          "angle_degrees_ccw": 191.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_17.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_17.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              6,
+              76
+            ]
+          ]
+        },
+        {
+          "index": 18,
+          "angle_degrees_ccw": 202.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_18.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_18.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              9,
+              87
+            ]
+          ]
+        },
+        {
+          "index": 19,
+          "angle_degrees_ccw": 213.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_19.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_19.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              15,
+              97
+            ]
+          ]
+        },
+        {
+          "index": 20,
+          "angle_degrees_ccw": 225.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_20.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_20.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              22,
+              106
+            ]
+          ]
+        },
+        {
+          "index": 21,
+          "angle_degrees_ccw": 236.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_21.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_21.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              31,
+              113
+            ]
+          ]
+        },
+        {
+          "index": 22,
+          "angle_degrees_ccw": 247.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_22.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_22.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              41,
+              119
+            ]
+          ]
+        },
+        {
+          "index": 23,
+          "angle_degrees_ccw": 258.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_23.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_23.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              52,
+              122
+            ]
+          ]
+        },
+        {
+          "index": 24,
+          "angle_degrees_ccw": 270.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_24.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_24.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              64,
+              123
+            ]
+          ]
+        },
+        {
+          "index": 25,
+          "angle_degrees_ccw": 281.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_25.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_25.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              76,
+              122
+            ]
+          ]
+        },
+        {
+          "index": 26,
+          "angle_degrees_ccw": 292.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_26.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_26.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              87,
+              119
+            ]
+          ]
+        },
+        {
+          "index": 27,
+          "angle_degrees_ccw": 303.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_27.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_27.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              97,
+              113
+            ]
+          ]
+        },
+        {
+          "index": 28,
+          "angle_degrees_ccw": 315.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_28.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_28.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              106,
+              106
+            ]
+          ]
+        },
+        {
+          "index": 29,
+          "angle_degrees_ccw": 326.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_29.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_29.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              113,
+              97
+            ]
+          ]
+        },
+        {
+          "index": 30,
+          "angle_degrees_ccw": 337.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_30.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_30.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              119,
+              87
+            ]
+          ]
+        },
+        {
+          "index": 31,
+          "angle_degrees_ccw": 348.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/rifle/dir_31.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_31.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              122,
+              76
+            ]
+          ]
+        }
+      ],
+      "selection": "round(angleDegrees / 11.25) modulo 32",
+      "recoil_px": [
+        0,
+        3,
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "grenade",
+      "directions": [
+        {
+          "index": 0,
+          "angle_degrees_ccw": 0.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_00.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_00.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              123,
+              64
+            ]
+          ]
+        },
+        {
+          "index": 1,
+          "angle_degrees_ccw": 11.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_01.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_01.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              122,
+              52
+            ]
+          ]
+        },
+        {
+          "index": 2,
+          "angle_degrees_ccw": 22.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_02.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_02.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              119,
+              41
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "angle_degrees_ccw": 33.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_03.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_03.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              113,
+              31
+            ]
+          ]
+        },
+        {
+          "index": 4,
+          "angle_degrees_ccw": 45.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_04.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_04.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              106,
+              22
+            ]
+          ]
+        },
+        {
+          "index": 5,
+          "angle_degrees_ccw": 56.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_05.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_05.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              97,
+              15
+            ]
+          ]
+        },
+        {
+          "index": 6,
+          "angle_degrees_ccw": 67.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_06.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_06.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              87,
+              9
+            ]
+          ]
+        },
+        {
+          "index": 7,
+          "angle_degrees_ccw": 78.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_07.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_07.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              76,
+              6
+            ]
+          ]
+        },
+        {
+          "index": 8,
+          "angle_degrees_ccw": 90.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_08.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_08.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              64,
+              5
+            ]
+          ]
+        },
+        {
+          "index": 9,
+          "angle_degrees_ccw": 101.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_09.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_09.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              52,
+              6
+            ]
+          ]
+        },
+        {
+          "index": 10,
+          "angle_degrees_ccw": 112.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_10.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_10.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              41,
+              9
+            ]
+          ]
+        },
+        {
+          "index": 11,
+          "angle_degrees_ccw": 123.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_11.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_11.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              31,
+              15
+            ]
+          ]
+        },
+        {
+          "index": 12,
+          "angle_degrees_ccw": 135.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_12.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_12.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              22,
+              22
+            ]
+          ]
+        },
+        {
+          "index": 13,
+          "angle_degrees_ccw": 146.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_13.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_13.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              15,
+              31
+            ]
+          ]
+        },
+        {
+          "index": 14,
+          "angle_degrees_ccw": 157.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_14.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_14.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              9,
+              41
+            ]
+          ]
+        },
+        {
+          "index": 15,
+          "angle_degrees_ccw": 168.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_15.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_15.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              6,
+              52
+            ]
+          ]
+        },
+        {
+          "index": 16,
+          "angle_degrees_ccw": 180.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_16.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_16.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              5,
+              64
+            ]
+          ]
+        },
+        {
+          "index": 17,
+          "angle_degrees_ccw": 191.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_17.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_17.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              6,
+              76
+            ]
+          ]
+        },
+        {
+          "index": 18,
+          "angle_degrees_ccw": 202.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_18.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_18.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              9,
+              87
+            ]
+          ]
+        },
+        {
+          "index": 19,
+          "angle_degrees_ccw": 213.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_19.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_19.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              15,
+              97
+            ]
+          ]
+        },
+        {
+          "index": 20,
+          "angle_degrees_ccw": 225.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_20.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_20.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              22,
+              106
+            ]
+          ]
+        },
+        {
+          "index": 21,
+          "angle_degrees_ccw": 236.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_21.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_21.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              31,
+              113
+            ]
+          ]
+        },
+        {
+          "index": 22,
+          "angle_degrees_ccw": 247.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_22.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_22.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              41,
+              119
+            ]
+          ]
+        },
+        {
+          "index": 23,
+          "angle_degrees_ccw": 258.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_23.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_23.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              52,
+              122
+            ]
+          ]
+        },
+        {
+          "index": 24,
+          "angle_degrees_ccw": 270.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_24.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_24.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              64,
+              123
+            ]
+          ]
+        },
+        {
+          "index": 25,
+          "angle_degrees_ccw": 281.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_25.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_25.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              76,
+              122
+            ]
+          ]
+        },
+        {
+          "index": 26,
+          "angle_degrees_ccw": 292.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_26.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_26.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              87,
+              119
+            ]
+          ]
+        },
+        {
+          "index": 27,
+          "angle_degrees_ccw": 303.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_27.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_27.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              97,
+              113
+            ]
+          ]
+        },
+        {
+          "index": 28,
+          "angle_degrees_ccw": 315.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_28.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_28.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              106,
+              106
+            ]
+          ]
+        },
+        {
+          "index": 29,
+          "angle_degrees_ccw": 326.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_29.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_29.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              113,
+              97
+            ]
+          ]
+        },
+        {
+          "index": 30,
+          "angle_degrees_ccw": 337.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_30.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_30.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              119,
+              87
+            ]
+          ]
+        },
+        {
+          "index": 31,
+          "angle_degrees_ccw": 348.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/grenade/dir_31.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_31.png",
+          "pivot_px_top_left": [
+            64,
+            64
+          ],
+          "muzzles_px_top_left": [
+            [
+              122,
+              76
+            ]
+          ]
+        }
+      ],
+      "selection": "round(angleDegrees / 11.25) modulo 32",
+      "recoil_px": [
+        0,
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "shotgun",
+      "directions": [
+        {
+          "index": 0,
+          "angle_degrees_ccw": 0.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_00.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_00.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              59,
+              28
+            ],
+            [
+              59,
+              36
+            ]
+          ]
+        },
+        {
+          "index": 1,
+          "angle_degrees_ccw": 11.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_01.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_01.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              58,
+              23
+            ],
+            [
+              59,
+              31
+            ]
+          ]
+        },
+        {
+          "index": 2,
+          "angle_degrees_ccw": 22.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_02.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_02.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              55,
+              18
+            ],
+            [
+              58,
+              25
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "angle_degrees_ccw": 33.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_03.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_03.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              52,
+              14
+            ],
+            [
+              57,
+              20
+            ]
+          ]
+        },
+        {
+          "index": 4,
+          "angle_degrees_ccw": 45.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_04.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_04.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              48,
+              10
+            ],
+            [
+              54,
+              16
+            ]
+          ]
+        },
+        {
+          "index": 5,
+          "angle_degrees_ccw": 56.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_05.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_05.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              44,
+              7
+            ],
+            [
+              50,
+              12
+            ]
+          ]
+        },
+        {
+          "index": 6,
+          "angle_degrees_ccw": 67.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_06.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_06.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              39,
+              6
+            ],
+            [
+              46,
+              9
+            ]
+          ]
+        },
+        {
+          "index": 7,
+          "angle_degrees_ccw": 78.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_07.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_07.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              33,
+              5
+            ],
+            [
+              41,
+              6
+            ]
+          ]
+        },
+        {
+          "index": 8,
+          "angle_degrees_ccw": 90.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_08.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_08.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              28,
+              5
+            ],
+            [
+              36,
+              5
+            ]
+          ]
+        },
+        {
+          "index": 9,
+          "angle_degrees_ccw": 101.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_09.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_09.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              23,
+              6
+            ],
+            [
+              31,
+              5
+            ]
+          ]
+        },
+        {
+          "index": 10,
+          "angle_degrees_ccw": 112.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_10.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_10.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              18,
+              9
+            ],
+            [
+              25,
+              6
+            ]
+          ]
+        },
+        {
+          "index": 11,
+          "angle_degrees_ccw": 123.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_11.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_11.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              14,
+              12
+            ],
+            [
+              20,
+              7
+            ]
+          ]
+        },
+        {
+          "index": 12,
+          "angle_degrees_ccw": 135.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_12.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_12.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              10,
+              16
+            ],
+            [
+              16,
+              10
+            ]
+          ]
+        },
+        {
+          "index": 13,
+          "angle_degrees_ccw": 146.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_13.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_13.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              7,
+              20
+            ],
+            [
+              12,
+              14
+            ]
+          ]
+        },
+        {
+          "index": 14,
+          "angle_degrees_ccw": 157.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_14.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_14.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              6,
+              25
+            ],
+            [
+              9,
+              18
+            ]
+          ]
+        },
+        {
+          "index": 15,
+          "angle_degrees_ccw": 168.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_15.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_15.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              5,
+              31
+            ],
+            [
+              6,
+              23
+            ]
+          ]
+        },
+        {
+          "index": 16,
+          "angle_degrees_ccw": 180.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_16.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_16.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              5,
+              36
+            ],
+            [
+              5,
+              28
+            ]
+          ]
+        },
+        {
+          "index": 17,
+          "angle_degrees_ccw": 191.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_17.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_17.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              6,
+              41
+            ],
+            [
+              5,
+              33
+            ]
+          ]
+        },
+        {
+          "index": 18,
+          "angle_degrees_ccw": 202.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_18.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_18.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              9,
+              46
+            ],
+            [
+              6,
+              39
+            ]
+          ]
+        },
+        {
+          "index": 19,
+          "angle_degrees_ccw": 213.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_19.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_19.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              12,
+              50
+            ],
+            [
+              7,
+              44
+            ]
+          ]
+        },
+        {
+          "index": 20,
+          "angle_degrees_ccw": 225.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_20.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_20.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              16,
+              54
+            ],
+            [
+              10,
+              48
+            ]
+          ]
+        },
+        {
+          "index": 21,
+          "angle_degrees_ccw": 236.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_21.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_21.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              20,
+              57
+            ],
+            [
+              14,
+              52
+            ]
+          ]
+        },
+        {
+          "index": 22,
+          "angle_degrees_ccw": 247.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_22.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_22.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              25,
+              58
+            ],
+            [
+              18,
+              55
+            ]
+          ]
+        },
+        {
+          "index": 23,
+          "angle_degrees_ccw": 258.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_23.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_23.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              31,
+              59
+            ],
+            [
+              23,
+              58
+            ]
+          ]
+        },
+        {
+          "index": 24,
+          "angle_degrees_ccw": 270.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_24.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_24.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              36,
+              59
+            ],
+            [
+              28,
+              59
+            ]
+          ]
+        },
+        {
+          "index": 25,
+          "angle_degrees_ccw": 281.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_25.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_25.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              41,
+              58
+            ],
+            [
+              33,
+              59
+            ]
+          ]
+        },
+        {
+          "index": 26,
+          "angle_degrees_ccw": 292.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_26.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_26.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              46,
+              55
+            ],
+            [
+              39,
+              58
+            ]
+          ]
+        },
+        {
+          "index": 27,
+          "angle_degrees_ccw": 303.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_27.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_27.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              50,
+              52
+            ],
+            [
+              44,
+              57
+            ]
+          ]
+        },
+        {
+          "index": 28,
+          "angle_degrees_ccw": 315.0,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_28.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_28.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              54,
+              48
+            ],
+            [
+              48,
+              54
+            ]
+          ]
+        },
+        {
+          "index": 29,
+          "angle_degrees_ccw": 326.25,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_29.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_29.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              57,
+              44
+            ],
+            [
+              52,
+              50
+            ]
+          ]
+        },
+        {
+          "index": 30,
+          "angle_degrees_ccw": 337.5,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_30.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_30.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              58,
+              39
+            ],
+            [
+              55,
+              46
+            ]
+          ]
+        },
+        {
+          "index": 31,
+          "angle_degrees_ccw": 348.75,
+          "player": "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_31.png",
+          "enemy": "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_31.png",
+          "pivot_px_top_left": [
+            32,
+            32
+          ],
+          "muzzles_px_top_left": [
+            [
+              59,
+              33
+            ],
+            [
+              58,
+              41
+            ]
+          ]
+        }
+      ],
+      "selection": "round(angleDegrees / 11.25) modulo 32",
+      "recoil_px": [
+        0,
+        2,
+        2,
+        0
+      ]
+    }
+  ]
+}

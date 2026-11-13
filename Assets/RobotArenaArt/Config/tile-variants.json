@@ -1,0 +1,158 @@
+{
+  "families": [
+    {
+      "family": "floor",
+      "variants": [
+        "Assets/RobotArenaArt/Environment/Variants/floor_00.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_01.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_02.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_03.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_04.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_05.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_06.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_07.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_08.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_09.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_10.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_11.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_12.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_13.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_14.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_15.png"
+      ],
+      "count": 16,
+      "seed": 717,
+      "exclude_previous_neighbors": [
+        [
+          0,
+          -1
+        ],
+        [
+          -1,
+          0
+        ],
+        [
+          -1,
+          -1
+        ],
+        [
+          1,
+          -1
+        ],
+        [
+          -2,
+          0
+        ],
+        [
+          0,
+          -2
+        ]
+      ],
+      "rotate_tiles": false
+    },
+    {
+      "family": "arena",
+      "variants": [
+        "Assets/RobotArenaArt/Environment/Variants/arena_00.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_01.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_02.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_03.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_04.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_05.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_06.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_07.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_08.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_09.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_10.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_11.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_12.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_13.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_14.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_15.png"
+      ],
+      "count": 16,
+      "seed": 717,
+      "exclude_previous_neighbors": [
+        [
+          0,
+          -1
+        ],
+        [
+          -1,
+          0
+        ],
+        [
+          -1,
+          -1
+        ],
+        [
+          1,
+          -1
+        ],
+        [
+          -2,
+          0
+        ],
+        [
+          0,
+          -2
+        ]
+      ],
+      "rotate_tiles": false
+    },
+    {
+      "family": "mat",
+      "variants": [
+        "Assets/RobotArenaArt/Environment/Variants/mat_00.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_01.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_02.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_03.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_04.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_05.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_06.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_07.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_08.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_09.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_10.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_11.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_12.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_13.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_14.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_15.png"
+      ],
+      "count": 16,
+      "seed": 717,
+      "exclude_previous_neighbors": [
+        [
+          0,
+          -1
+        ],
+        [
+          -1,
+          0
+        ],
+        [
+          -1,
+          -1
+        ],
+        [
+          1,
+          -1
+        ],
+        [
+          -2,
+          0
+        ],
+        [
+          0,
+          -2
+        ]
+      ],
+      "rotate_tiles": false
+    }
+  ],
+  "selection": "Seeded random; exclude left/up/diagonal neighbors and two previous tiles in each axis; do not use modulo(x+y). Same seed for all arena layouts so only walls change.",
+  "wood_edge_variants_per_side": 1,
+  "revision": 3,
+  "note": "V3floorgrain only+4/-3RGB. Arenamaterial only+/-2RGB, sparse broad decor is a separate layer. Rim is continuous, not random wood slices."
+}

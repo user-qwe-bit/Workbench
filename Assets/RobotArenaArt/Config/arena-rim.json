@@ -1,0 +1,15 @@
+{
+  "width_px": 64,
+  "placement": "Outside playable table_rect, never inside its first cell.",
+  "parts": {
+    "top": "Assets/RobotArenaArt/Environment/Rim/top.png",
+    "left": "Assets/RobotArenaArt/Environment/Rim/left.png",
+    "bottom": "Assets/RobotArenaArt/Environment/Rim/bottom.png",
+    "right": "Assets/RobotArenaArt/Environment/Rim/right.png",
+    "tl": "Assets/RobotArenaArt/Environment/Rim/tl.png",
+    "bl": "Assets/RobotArenaArt/Environment/Rim/bl.png",
+    "br": "Assets/RobotArenaArt/Environment/Rim/br.png",
+    "tr": "Assets/RobotArenaArt/Environment/Rim/tr.png"
+  },
+  "repeat": "Onlyalong the rail. Sharedcross-sections have no endcaps or seams. Corners fit exactly."
+}

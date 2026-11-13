@@ -1,0 +1,178 @@
+{
+  "revision": 4,
+  "scale": 1,
+  "source": "Exact original small Props PNGs from v2. No resizing, no new furniture artwork.",
+  "items": [
+    {
+      "name": "bench",
+      "path": "Assets/RobotArenaArt/Props/bench.png",
+      "size": [
+        128,
+        64
+      ],
+      "sha256": "a335de117ef6b7b66a00d1828c7187c7813da1af2f256f58419cfcc0af55cd43"
+    },
+    {
+      "name": "bench_long",
+      "path": "Assets/RobotArenaArt/Props/bench_long.png",
+      "size": [
+        256,
+        64
+      ],
+      "sha256": "21c55ae3581dbc260c4ff9a0bdefdbb732f9e373a604153e7350f865e45fafb6"
+    },
+    {
+      "name": "bench_vertical",
+      "path": "Assets/RobotArenaArt/Props/bench_vertical.png",
+      "size": [
+        64,
+        128
+      ],
+      "sha256": "d7be0c8c8cfed4417ce81b20fa0c26ed3c839551ffcc94bba5656ee67c848242"
+    },
+    {
+      "name": "box",
+      "path": "Assets/RobotArenaArt/Props/box.png",
+      "size": [
+        64,
+        64
+      ],
+      "sha256": "93b2ebb9e62dbf0c77e1b3e72c1c4b479378a7555f0087cfc5a4009aed33cc10"
+    },
+    {
+      "name": "cabinet",
+      "path": "Assets/RobotArenaArt/Props/cabinet.png",
+      "size": [
+        128,
+        64
+      ],
+      "sha256": "5982f2aa64d1d27ac77b0cc789c301271fa3f6a399387c18400c1618fdae2939"
+    },
+    {
+      "name": "cabinet_square",
+      "path": "Assets/RobotArenaArt/Props/cabinet_square.png",
+      "size": [
+        64,
+        64
+      ],
+      "sha256": "a4321de40c57cf13c555a4ed88f42a2457f6e5897445b9c83efc6965a4c2999c"
+    },
+    {
+      "name": "cable",
+      "path": "Assets/RobotArenaArt/Props/cable.png",
+      "size": [
+        64,
+        64
+      ],
+      "sha256": "538abd95234ae2d7cd1865d9b9741ece7eb11b58e98d15f653245f59279004f2"
+    },
+    {
+      "name": "crate",
+      "path": "Assets/RobotArenaArt/Props/crate.png",
+      "size": [
+        64,
+        64
+      ],
+      "sha256": "1e1074adf8db2aea3e1823c53960c486a30b005ad98f7b64cc9631e65505e6b3"
+    },
+    {
+      "name": "gear_big",
+      "path": "Assets/RobotArenaArt/Props/gear_big.png",
+      "size": [
+        64,
+        64
+      ],
+      "sha256": "1cc9b19074eb5d33257a12f3a034c304329980a9700c08bb3f136b9a8b332ce8"
+    },
+    {
+      "name": "gear_small",
+      "path": "Assets/RobotArenaArt/Props/gear_small.png",
+      "size": [
+        64,
+        64
+      ],
+      "sha256": "0291e55aaf2a708f0ade7f2d0c065a53757979baedcdf23f94dea29638cd251c"
+    },
+    {
+      "name": "nut",
+      "path": "Assets/RobotArenaArt/Props/nut.png",
+      "size": [
+        64,
+        64
+      ],
+      "sha256": "753fd5fc20e0e8772d34b4275662eafc345b60267fb684707cbbdde8c8062c04"
+    },
+    {
+      "name": "plant_a",
+      "path": "Assets/RobotArenaArt/Props/plant_a.png",
+      "size": [
+        64,
+        64
+      ],
+      "sha256": "c0e4aa381b6ba84bcac135d7df63f55fb4e824b280772d767d605e284b423ef3"
+    },
+    {
+      "name": "plant_b",
+      "path": "Assets/RobotArenaArt/Props/plant_b.png",
+      "size": [
+        64,
+        64
+      ],
+      "sha256": "9e53340439f52d9a1331647f63fbfef13105186efc9fbd345c6c6c7c3b33cbbb"
+    },
+    {
+      "name": "screw",
+      "path": "Assets/RobotArenaArt/Props/screw.png",
+      "size": [
+        64,
+        64
+      ],
+      "sha256": "e043239d61ecbdc551e95e54a995a69adc36b9ec7df7cf672f04a1e710197c8e"
+    },
+    {
+      "name": "screwdriver",
+      "path": "Assets/RobotArenaArt/Props/screwdriver.png",
+      "size": [
+        64,
+        64
+      ],
+      "sha256": "a08b52f10cbb3894f426fb12e15ca20fdb6568568d6dc9303b7be58ed3bab11d"
+    },
+    {
+      "name": "stool",
+      "path": "Assets/RobotArenaArt/Props/stool.png",
+      "size": [
+        64,
+        64
+      ],
+      "sha256": "99510c275710fa20a35c27329fc137004b4507f04c3753438cdfe6631ce78c60"
+    },
+    {
+      "name": "toolcase",
+      "path": "Assets/RobotArenaArt/Props/toolcase.png",
+      "size": [
+        64,
+        64
+      ],
+      "sha256": "a8f21d31da53f7eccc1b0a7eda9f05640c98df0629117ddbc58bc7b9ea4ca0f1"
+    },
+    {
+      "name": "tray",
+      "path": "Assets/RobotArenaArt/Props/tray.png",
+      "size": [
+        128,
+        64
+      ],
+      "sha256": "88d641fc2796d8e15dc47a781204d68f4602c564596bbea3b2f369903321fb18"
+    },
+    {
+      "name": "wrench",
+      "path": "Assets/RobotArenaArt/Props/wrench.png",
+      "size": [
+        64,
+        64
+      ],
+      "sha256": "cdbfa8a57d11b812873bd622b7889ca4cb3e036fd38cfaa12b5321cc13dc53b4"
+    }
+  ]
+}

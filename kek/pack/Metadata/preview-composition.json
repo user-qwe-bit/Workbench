@@ -1,0 +1,23 @@
+{
+  "fullhd": [
+    1920,
+    1080
+  ],
+  "final_resize": false,
+  "global_pixelation": false,
+  "constructor_sprite_scale": 1,
+  "battle_sprite_scale": 1,
+  "furniture_sprite_scale": 1,
+  "battle_camera_origin_px": [
+    1216,
+    676
+  ],
+  "full_arena_views": [
+    4352,
+    2448
+  ],
+  "arena_thumbnail": "64pxwall cell->4px onlyinside selection thumbnail; all fullscene/detail previews use exportedPNGsat1:1.",
+  "furniture_source": "Original v2 Props at unchanged dimensions, no image resizing",
+  "furniture_count": 96,
+  "tool_count": 49
+}

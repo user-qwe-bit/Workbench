@@ -1,0 +1,3170 @@
+{
+  "total_catalogue_items": 190,
+  "items": [
+    {
+      "id": "MOD-01",
+      "name": "Ядро: квадратное основание с центральной эмблемой/механизмом",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Modules/Player/core.png",
+        "Assets/RobotArenaArt/Modules/Enemy/core.png",
+        "Assets/RobotArenaArt/Modules/Disabled/core.png",
+        "Assets/RobotArenaArt/Modules/EnemyDisabled/core.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "MOD-02",
+      "name": "Обычный корпус",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Modules/Player/chassis.png",
+        "Assets/RobotArenaArt/Modules/Enemy/chassis.png",
+        "Assets/RobotArenaArt/Modules/Disabled/chassis.png",
+        "Assets/RobotArenaArt/Modules/EnemyDisabled/chassis.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "MOD-03",
+      "name": "Броня: более массивная пластина с четырьмя креплениями",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Modules/Player/armor.png",
+        "Assets/RobotArenaArt/Modules/Enemy/armor.png",
+        "Assets/RobotArenaArt/Modules/Disabled/armor.png",
+        "Assets/RobotArenaArt/Modules/EnemyDisabled/armor.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "MOD-04",
+      "name": "Батарея: жёлтый блок с молнией",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Modules/Player/battery.png",
+        "Assets/RobotArenaArt/Modules/Enemy/battery.png",
+        "Assets/RobotArenaArt/Modules/Disabled/battery.png",
+        "Assets/RobotArenaArt/Modules/EnemyDisabled/battery.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "MOD-05",
+      "name": "Основание пулемёта",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Modules/Player/machinegun.png",
+        "Assets/RobotArenaArt/Modules/Enemy/machinegun.png",
+        "Assets/RobotArenaArt/Modules/Disabled/machinegun.png",
+        "Assets/RobotArenaArt/Modules/EnemyDisabled/machinegun.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "MOD-06",
+      "name": "Основание винтовки, строго вертикальное",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Modules/Player/rifle.png",
+        "Assets/RobotArenaArt/Modules/Enemy/rifle.png",
+        "Assets/RobotArenaArt/Modules/Disabled/rifle.png",
+        "Assets/RobotArenaArt/Modules/EnemyDisabled/rifle.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "MOD-07",
+      "name": "Основание гранатомёта",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Modules/Player/grenade.png",
+        "Assets/RobotArenaArt/Modules/Enemy/grenade.png",
+        "Assets/RobotArenaArt/Modules/Disabled/grenade.png",
+        "Assets/RobotArenaArt/Modules/EnemyDisabled/grenade.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "MOD-08",
+      "name": "Основание дробовика",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Modules/Player/shotgun.png",
+        "Assets/RobotArenaArt/Modules/Enemy/shotgun.png",
+        "Assets/RobotArenaArt/Modules/Disabled/shotgun.png",
+        "Assets/RobotArenaArt/Modules/EnemyDisabled/shotgun.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "MOD-09",
+      "name": "Модуль щита с центральным излучателем",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Modules/Player/shield.png",
+        "Assets/RobotArenaArt/Modules/Enemy/shield.png",
+        "Assets/RobotArenaArt/Modules/Disabled/shield.png",
+        "Assets/RobotArenaArt/Modules/EnemyDisabled/shield.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "MOD-10",
+      "name": "Маска командного цвета каждого основания",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Modules/Masks/core_team.png",
+        "Assets/RobotArenaArt/Modules/Masks/chassis_team.png",
+        "Assets/RobotArenaArt/Modules/Masks/armor_team.png",
+        "Assets/RobotArenaArt/Modules/Masks/battery_team.png",
+        "Assets/RobotArenaArt/Modules/Masks/machinegun_team.png",
+        "Assets/RobotArenaArt/Modules/Masks/rifle_team.png",
+        "Assets/RobotArenaArt/Modules/Masks/grenade_team.png",
+        "Assets/RobotArenaArt/Modules/Masks/shotgun_team.png",
+        "Assets/RobotArenaArt/Modules/Masks/shield_team.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "MOD-11",
+      "name": "Лёгкое повреждение",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Modules/Damage/light_0.png",
+        "Assets/RobotArenaArt/Modules/Damage/light_1.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "MOD-12",
+      "name": "Сильное повреждение",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Modules/Damage/heavy_0.png",
+        "Assets/RobotArenaArt/Modules/Damage/heavy_1.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "MOD-13",
+      "name": "Значок отсутствия питания",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Modules/no_power.png",
+        "Assets/RobotArenaArt/Modules/no_power_blink/frame_00.png",
+        "Assets/RobotArenaArt/Modules/no_power_blink/frame_01.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "MOD-14",
+      "name": "Вспышка полученного урона",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Modules/Masks/core_silhouette.png",
+        "Assets/RobotArenaArt/Modules/Masks/chassis_silhouette.png",
+        "Assets/RobotArenaArt/Modules/Masks/armor_silhouette.png",
+        "Assets/RobotArenaArt/Modules/Masks/battery_silhouette.png",
+        "Assets/RobotArenaArt/Modules/Masks/machinegun_silhouette.png",
+        "Assets/RobotArenaArt/Modules/Masks/rifle_silhouette.png",
+        "Assets/RobotArenaArt/Modules/Masks/grenade_silhouette.png",
+        "Assets/RobotArenaArt/Modules/Masks/shotgun_silhouette.png",
+        "Assets/RobotArenaArt/Modules/Masks/shield_silhouette.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "MOD-15",
+      "name": "Подсветка выбранной детали",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Builder/valid_64x64.png",
+        "Assets/RobotArenaArt/UI/Builder/valid_64x128.png",
+        "Assets/RobotArenaArt/UI/Builder/valid_128x64.png",
+        "Assets/RobotArenaArt/UI/Builder/valid_128x128.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "WPN-01",
+      "name": "Верхняя вращающаяся часть пулемёта",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_00.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_00.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_01.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_01.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_02.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_02.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_03.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_03.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_04.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_04.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_05.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_05.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_06.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_06.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_07.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_07.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_08.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_08.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_09.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_09.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_10.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_10.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_11.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_11.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_12.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_12.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_13.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_13.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_14.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_14.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_15.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_15.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_16.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_16.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_17.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_17.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_18.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_18.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_19.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_19.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_20.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_20.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_21.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_21.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_22.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_22.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_23.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_23.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_24.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_24.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_25.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_25.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_26.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_26.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_27.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_27.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_28.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_28.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_29.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_29.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_30.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_30.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_31.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_31.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "WPN-02",
+      "name": "Верхняя вращающаяся часть винтовки",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_00.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_00.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_01.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_01.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_02.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_02.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_03.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_03.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_04.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_04.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_05.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_05.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_06.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_06.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_07.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_07.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_08.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_08.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_09.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_09.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_10.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_10.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_11.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_11.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_12.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_12.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_13.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_13.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_14.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_14.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_15.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_15.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_16.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_16.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_17.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_17.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_18.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_18.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_19.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_19.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_20.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_20.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_21.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_21.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_22.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_22.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_23.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_23.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_24.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_24.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_25.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_25.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_26.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_26.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_27.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_27.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_28.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_28.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_29.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_29.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_30.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_30.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_31.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_31.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "WPN-03",
+      "name": "Верхняя вращающаяся часть гранатомёта",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_00.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_00.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_01.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_01.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_02.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_02.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_03.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_03.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_04.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_04.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_05.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_05.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_06.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_06.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_07.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_07.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_08.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_08.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_09.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_09.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_10.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_10.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_11.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_11.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_12.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_12.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_13.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_13.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_14.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_14.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_15.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_15.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_16.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_16.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_17.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_17.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_18.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_18.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_19.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_19.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_20.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_20.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_21.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_21.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_22.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_22.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_23.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_23.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_24.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_24.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_25.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_25.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_26.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_26.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_27.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_27.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_28.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_28.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_29.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_29.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_30.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_30.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_31.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_31.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "WPN-04",
+      "name": "Верхняя вращающаяся часть дробовика",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_00.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_00.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_01.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_01.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_02.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_02.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_03.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_03.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_04.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_04.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_05.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_05.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_06.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_06.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_07.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_07.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_08.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_08.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_09.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_09.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_10.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_10.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_11.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_11.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_12.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_12.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_13.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_13.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_14.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_14.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_15.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_15.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_16.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_16.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_17.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_17.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_18.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_18.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_19.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_19.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_20.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_20.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_21.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_21.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_22.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_22.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_23.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_23.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_24.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_24.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_25.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_25.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_26.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_26.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_27.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_27.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_28.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_28.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_29.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_29.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_30.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_30.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_31.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_31.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "WPN-05",
+      "name": "Маски командного акцента турелей",
+      "status": "shared",
+      "files": [
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_00.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_01.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_02.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_03.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_04.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_05.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_06.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_07.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_08.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_09.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_10.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_11.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_12.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_13.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_14.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_15.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_16.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_17.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_18.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_19.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_20.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_21.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_22.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_23.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_24.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_25.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_26.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_27.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_28.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_29.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_30.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/grenade/dir_31.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_00.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_01.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_02.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_03.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_04.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_05.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_06.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_07.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_08.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_09.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_10.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_11.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_12.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_13.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_14.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_15.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_16.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_17.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_18.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_19.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_20.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_21.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_22.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_23.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_24.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_25.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_26.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_27.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_28.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_29.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_30.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/machinegun/dir_31.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_00.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_01.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_02.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_03.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_04.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_05.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_06.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_07.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_08.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_09.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_10.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_11.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_12.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_13.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_14.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_15.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_16.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_17.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_18.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_19.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_20.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_21.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_22.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_23.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_24.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_25.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_26.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_27.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_28.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_29.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_30.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/rifle/dir_31.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_00.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_01.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_02.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_03.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_04.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_05.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_06.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_07.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_08.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_09.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_10.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_11.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_12.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_13.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_14.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_15.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_16.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_17.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_18.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_19.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_20.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_21.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_22.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_23.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_24.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_25.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_26.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_27.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_28.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_29.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_30.png",
+        "Assets/RobotArenaArt/Turrets/Enemy/shotgun/dir_31.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_00.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_01.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_02.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_03.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_04.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_05.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_06.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_07.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_08.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_09.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_10.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_11.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_12.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_13.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_14.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_15.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_16.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_17.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_18.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_19.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_20.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_21.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_22.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_23.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_24.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_25.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_26.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_27.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_28.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_29.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_30.png",
+        "Assets/RobotArenaArt/Turrets/Player/grenade/dir_31.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_00.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_01.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_02.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_03.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_04.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_05.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_06.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_07.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_08.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_09.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_10.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_11.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_12.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_13.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_14.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_15.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_16.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_17.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_18.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_19.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_20.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_21.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_22.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_23.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_24.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_25.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_26.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_27.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_28.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_29.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_30.png",
+        "Assets/RobotArenaArt/Turrets/Player/machinegun/dir_31.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_00.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_01.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_02.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_03.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_04.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_05.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_06.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_07.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_08.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_09.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_10.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_11.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_12.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_13.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_14.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_15.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_16.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_17.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_18.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_19.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_20.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_21.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_22.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_23.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_24.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_25.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_26.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_27.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_28.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_29.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_30.png",
+        "Assets/RobotArenaArt/Turrets/Player/rifle/dir_31.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_00.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_01.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_02.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_03.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_04.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_05.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_06.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_07.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_08.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_09.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_10.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_11.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_12.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_13.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_14.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_15.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_16.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_17.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_18.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_19.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_20.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_21.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_22.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_23.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_24.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_25.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_26.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_27.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_28.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_29.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_30.png",
+        "Assets/RobotArenaArt/Turrets/Player/shotgun/dir_31.png"
+      ],
+      "notes": "Две готовые командные палитры вместо обязательной runtime-маски турели."
+    },
+    {
+      "id": "ROB-01",
+      "name": "Колесо сверху: шина с несколькими полосами протектора",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Wheels/wheel_vertical/frame_00.png",
+        "Assets/RobotArenaArt/Wheels/wheel_vertical/frame_01.png",
+        "Assets/RobotArenaArt/Wheels/wheel_vertical/frame_02.png",
+        "Assets/RobotArenaArt/Wheels/wheel_vertical/frame_03.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ROB-02",
+      "name": "То же колесо для второй ориентации крепления",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Wheels/wheel_horizontal/frame_00.png",
+        "Assets/RobotArenaArt/Wheels/wheel_horizontal/frame_01.png",
+        "Assets/RobotArenaArt/Wheels/wheel_horizontal/frame_02.png",
+        "Assets/RobotArenaArt/Wheels/wheel_horizontal/frame_03.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ROB-03",
+      "name": "Контактная тень модуля/колеса",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Modules/contact_shadow.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "PRJ-01",
+      "name": "Пуля пулемёта, игрушечный пластиковый шарик/короткий дротик",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Projectiles/machinegun.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "PRJ-02",
+      "name": "Дротик винтовки, длиннее и заметнее",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Projectiles/rifle.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_00.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_01.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_02.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_03.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_04.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_05.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_06.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_07.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_08.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_09.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_10.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_11.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_12.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_13.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_14.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_15.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_16.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_17.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_18.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_19.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_20.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_21.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_22.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_23.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_24.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_25.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_26.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_27.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_28.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_29.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_30.png",
+        "Assets/RobotArenaArt/Projectiles/RifleDirections/dir_31.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "PRJ-03",
+      "name": "Одна дробина",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Projectiles/pellet.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "PRJ-04",
+      "name": "Игрушечная граната, круглый пластиковый шар",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Projectiles/grenade_spin/frame_00.png",
+        "Assets/RobotArenaArt/Projectiles/grenade_spin/frame_01.png",
+        "Assets/RobotArenaArt/Projectiles/grenade_spin/frame_02.png",
+        "Assets/RobotArenaArt/Projectiles/grenade_spin/frame_03.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "PRJ-05",
+      "name": "Маленький квадрат/кластер следа",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Projectiles/trail_mask.png",
+        "Assets/RobotArenaArt/Projectiles/trail_player.png",
+        "Assets/RobotArenaArt/Projectiles/trail_enemy.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "PRJ-06",
+      "name": "Конец короткого следа дротика",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Projectiles/tail.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "FX-01",
+      "name": "Вспышка пулемёта у дула",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Effects/muzzle_machinegun/frame_00.png",
+        "Assets/RobotArenaArt/Effects/muzzle_machinegun/frame_01.png",
+        "Assets/RobotArenaArt/Effects/muzzle_machinegun/frame_02.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "FX-02",
+      "name": "Вспышка винтовки",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Effects/muzzle_rifle/frame_00.png",
+        "Assets/RobotArenaArt/Effects/muzzle_rifle/frame_01.png",
+        "Assets/RobotArenaArt/Effects/muzzle_rifle/frame_02.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "FX-03",
+      "name": "Выход гранаты из пусковой трубы",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Effects/muzzle_grenade/frame_00.png",
+        "Assets/RobotArenaArt/Effects/muzzle_grenade/frame_01.png",
+        "Assets/RobotArenaArt/Effects/muzzle_grenade/frame_02.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "FX-04",
+      "name": "Вспышка дробовика",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Effects/muzzle_shotgun/frame_00.png",
+        "Assets/RobotArenaArt/Effects/muzzle_shotgun/frame_01.png",
+        "Assets/RobotArenaArt/Effects/muzzle_shotgun/frame_02.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "FX-05",
+      "name": "Попадание в модуль: жёлтые искры",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Effects/hit_module/frame_00.png",
+        "Assets/RobotArenaArt/Effects/hit_module/frame_01.png",
+        "Assets/RobotArenaArt/Effects/hit_module/frame_02.png",
+        "Assets/RobotArenaArt/Effects/hit_module/frame_03.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "FX-06",
+      "name": "Попадание в стенку: небольшие искры/пыль",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Effects/hit_wall/frame_00.png",
+        "Assets/RobotArenaArt/Effects/hit_wall/frame_01.png",
+        "Assets/RobotArenaArt/Effects/hit_wall/frame_02.png",
+        "Assets/RobotArenaArt/Effects/hit_wall/frame_03.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "FX-07",
+      "name": "Контактный удар роботов",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Effects/collision/frame_00.png",
+        "Assets/RobotArenaArt/Effects/collision/frame_01.png",
+        "Assets/RobotArenaArt/Effects/collision/frame_02.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "FX-08",
+      "name": "Разрушение обычного модуля",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Effects/break_module/frame_00.png",
+        "Assets/RobotArenaArt/Effects/break_module/frame_01.png",
+        "Assets/RobotArenaArt/Effects/break_module/frame_02.png",
+        "Assets/RobotArenaArt/Effects/break_module/frame_03.png",
+        "Assets/RobotArenaArt/Effects/break_module/frame_04.png",
+        "Assets/RobotArenaArt/Effects/break_module/frame_05.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "FX-09",
+      "name": "Разрушение модуля 2 × 2",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Effects/break_module_large/frame_00.png",
+        "Assets/RobotArenaArt/Effects/break_module_large/frame_01.png",
+        "Assets/RobotArenaArt/Effects/break_module_large/frame_02.png",
+        "Assets/RobotArenaArt/Effects/break_module_large/frame_03.png",
+        "Assets/RobotArenaArt/Effects/break_module_large/frame_04.png",
+        "Assets/RobotArenaArt/Effects/break_module_large/frame_05.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "FX-10",
+      "name": "Разрушение модуля 1 × 2",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Effects/break_module_tall/frame_00.png",
+        "Assets/RobotArenaArt/Effects/break_module_tall/frame_01.png",
+        "Assets/RobotArenaArt/Effects/break_module_tall/frame_02.png",
+        "Assets/RobotArenaArt/Effects/break_module_tall/frame_03.png",
+        "Assets/RobotArenaArt/Effects/break_module_tall/frame_04.png",
+        "Assets/RobotArenaArt/Effects/break_module_tall/frame_05.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "FX-11",
+      "name": "Разрушение ядра",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Effects/break_core/frame_00.png",
+        "Assets/RobotArenaArt/Effects/break_core/frame_01.png",
+        "Assets/RobotArenaArt/Effects/break_core/frame_02.png",
+        "Assets/RobotArenaArt/Effects/break_core/frame_03.png",
+        "Assets/RobotArenaArt/Effects/break_core/frame_04.png",
+        "Assets/RobotArenaArt/Effects/break_core/frame_05.png",
+        "Assets/RobotArenaArt/Effects/break_core/frame_06.png",
+        "Assets/RobotArenaArt/Effects/break_core/frame_07.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "FX-12",
+      "name": "Разрушение батареи",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Effects/break_battery/frame_00.png",
+        "Assets/RobotArenaArt/Effects/break_battery/frame_01.png",
+        "Assets/RobotArenaArt/Effects/break_battery/frame_02.png",
+        "Assets/RobotArenaArt/Effects/break_battery/frame_03.png",
+        "Assets/RobotArenaArt/Effects/break_battery/frame_04.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "FX-13",
+      "name": "Взрыв гранаты",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Effects/explode_grenade/frame_00.png",
+        "Assets/RobotArenaArt/Effects/explode_grenade/frame_01.png",
+        "Assets/RobotArenaArt/Effects/explode_grenade/frame_02.png",
+        "Assets/RobotArenaArt/Effects/explode_grenade/frame_03.png",
+        "Assets/RobotArenaArt/Effects/explode_grenade/frame_04.png",
+        "Assets/RobotArenaArt/Effects/explode_grenade/frame_05.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "FX-14",
+      "name": "Искра обесточивания",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Effects/power_loss/frame_00.png",
+        "Assets/RobotArenaArt/Effects/power_loss/frame_01.png",
+        "Assets/RobotArenaArt/Effects/power_loss/frame_02.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "FX-15",
+      "name": "Отсечённая деталь",
+      "status": "shared",
+      "files": [
+        "Assets/RobotArenaArt/Effects/break_module/frame_00.png",
+        "Assets/RobotArenaArt/Effects/break_module/frame_01.png",
+        "Assets/RobotArenaArt/Effects/break_module/frame_02.png",
+        "Assets/RobotArenaArt/Effects/break_module/frame_03.png",
+        "Assets/RobotArenaArt/Effects/break_module/frame_04.png",
+        "Assets/RobotArenaArt/Effects/break_module/frame_05.png",
+        "Assets/RobotArenaArt/Effects/break_module_large/frame_00.png",
+        "Assets/RobotArenaArt/Effects/break_module_large/frame_01.png",
+        "Assets/RobotArenaArt/Effects/break_module_large/frame_02.png",
+        "Assets/RobotArenaArt/Effects/break_module_large/frame_03.png",
+        "Assets/RobotArenaArt/Effects/break_module_large/frame_04.png",
+        "Assets/RobotArenaArt/Effects/break_module_large/frame_05.png",
+        "Assets/RobotArenaArt/Effects/break_module_tall/frame_00.png",
+        "Assets/RobotArenaArt/Effects/break_module_tall/frame_01.png",
+        "Assets/RobotArenaArt/Effects/break_module_tall/frame_02.png",
+        "Assets/RobotArenaArt/Effects/break_module_tall/frame_03.png",
+        "Assets/RobotArenaArt/Effects/break_module_tall/frame_04.png",
+        "Assets/RobotArenaArt/Effects/break_module_tall/frame_05.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "SHD-01",
+      "name": "Излучатель на основании щита",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Shield/emitter.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "SHD-02",
+      "name": "Активная лампа/сегменты излучателя",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Shield/shield_emitter/frame_00.png",
+        "Assets/RobotArenaArt/Shield/shield_emitter/frame_01.png",
+        "Assets/RobotArenaArt/Shield/shield_emitter/frame_02.png",
+        "Assets/RobotArenaArt/Shield/shield_emitter/frame_03.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "SHD-03",
+      "name": "Направленная дуга поля",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Shield/Directions/dir_00.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_01.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_02.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_03.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_04.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_05.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_06.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_07.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_08.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_09.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_10.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_11.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_12.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_13.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_14.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_15.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_16.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_17.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_18.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_19.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_20.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_21.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_22.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_23.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_24.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_25.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_26.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_27.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_28.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_29.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_30.png",
+        "Assets/RobotArenaArt/Shield/Directions/dir_31.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "SHD-04",
+      "name": "Рисунок внутреннего заполнения поля",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Shield/Pattern/phase_0.png",
+        "Assets/RobotArenaArt/Shield/Pattern/phase_1.png",
+        "Assets/RobotArenaArt/Shield/Pattern/phase_2.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "SHD-05",
+      "name": "Удар отражаемого снаряда о щит",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Effects/shield_reflect/frame_00.png",
+        "Assets/RobotArenaArt/Effects/shield_reflect/frame_01.png",
+        "Assets/RobotArenaArt/Effects/shield_reflect/frame_02.png",
+        "Assets/RobotArenaArt/Effects/shield_reflect/frame_03.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "SHD-06",
+      "name": "Кольцо перезарядки: пустая дорожка",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Shield/cooldown_track.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "SHD-07",
+      "name": "Кольцо перезарядки: заполняемые пиксельные сектора",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Shield/cooldown_mask.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_00.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_01.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_02.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_03.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_04.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_05.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_06.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_07.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_08.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_09.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_10.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_11.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_12.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_13.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_14.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_15.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_16.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_17.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_18.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_19.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_20.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_21.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_22.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_23.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_24.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_25.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_26.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_27.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_28.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_29.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_30.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_31.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_32.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "SHD-08",
+      "name": "Значок готовности щита",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Shield/ready.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ENV-01",
+      "name": "Пол мастерской вне игрового стола",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Environment/floor_0.png",
+        "Assets/RobotArenaArt/Environment/floor_1.png",
+        "Assets/RobotArenaArt/Environment/floor_2.png",
+        "Assets/RobotArenaArt/Environment/floor_3.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_00.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_01.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_02.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_03.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_04.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_05.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_06.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_07.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_08.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_09.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_10.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_11.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_12.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_13.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_14.png",
+        "Assets/RobotArenaArt/Environment/Variants/floor_15.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ENV-02",
+      "name": "Поверхность игровой арены: кремовая плитка",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Environment/arena_0.png",
+        "Assets/RobotArenaArt/Environment/arena_1.png",
+        "Assets/RobotArenaArt/Environment/arena_2.png",
+        "Assets/RobotArenaArt/Environment/arena_3.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_00.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_01.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_02.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_03.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_04.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_05.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_06.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_07.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_08.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_09.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_10.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_11.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_12.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_13.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_14.png",
+        "Assets/RobotArenaArt/Environment/Variants/arena_15.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ENV-03",
+      "name": "Небольшие пятна, царапины, потёртости стола",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Environment/scuff_0.png",
+        "Assets/RobotArenaArt/Environment/scuff_1.png",
+        "Assets/RobotArenaArt/Environment/scuff_2.png",
+        "Assets/RobotArenaArt/Environment/scuff_3.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ENV-04",
+      "name": "Деревянный край большого стола",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Environment/table_top.png",
+        "Assets/RobotArenaArt/Environment/table_left.png",
+        "Assets/RobotArenaArt/Environment/table_bottom.png",
+        "Assets/RobotArenaArt/Environment/table_right.png",
+        "Assets/RobotArenaArt/Environment/table_tl.png",
+        "Assets/RobotArenaArt/Environment/table_bl.png",
+        "Assets/RobotArenaArt/Environment/table_br.png",
+        "Assets/RobotArenaArt/Environment/table_tr.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_top_00.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_left_00.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_bottom_00.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_right_00.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_top_01.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_left_01.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_bottom_01.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_right_01.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_top_02.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_left_02.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_bottom_02.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_right_02.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_top_03.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_left_03.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_bottom_03.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_right_03.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_top_04.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_left_04.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_bottom_04.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_right_04.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_top_05.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_left_05.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_bottom_05.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_right_05.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_top_06.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_left_06.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_bottom_06.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_right_06.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_top_07.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_left_07.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_bottom_07.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_right_07.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_top_08.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_left_08.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_bottom_08.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_right_08.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_top_09.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_left_09.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_bottom_09.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_right_09.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_top_10.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_left_10.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_bottom_10.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_right_10.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_top_11.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_left_11.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_bottom_11.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_right_11.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_top_12.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_left_12.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_bottom_12.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_right_12.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_top_13.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_left_13.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_bottom_13.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_right_13.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_top_14.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_left_14.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_bottom_14.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_right_14.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_top_15.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_left_15.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_bottom_15.png",
+        "Assets/RobotArenaArt/Environment/Edges/table_right_15.png",
+        "Assets/RobotArenaArt/Environment/Rim/top.png",
+        "Assets/RobotArenaArt/Environment/Rim/left.png",
+        "Assets/RobotArenaArt/Environment/Rim/bottom.png",
+        "Assets/RobotArenaArt/Environment/Rim/right.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ENV-05",
+      "name": "Внутренний оранжевый бортик арены",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Environment/railing_top.png",
+        "Assets/RobotArenaArt/Environment/railing_left.png",
+        "Assets/RobotArenaArt/Environment/railing_bottom.png",
+        "Assets/RobotArenaArt/Environment/railing_right.png",
+        "Assets/RobotArenaArt/Environment/railing_tl.png",
+        "Assets/RobotArenaArt/Environment/railing_bl.png",
+        "Assets/RobotArenaArt/Environment/railing_br.png",
+        "Assets/RobotArenaArt/Environment/railing_tr.png",
+        "Assets/RobotArenaArt/Environment/Rim/tl.png",
+        "Assets/RobotArenaArt/Environment/table_tl.png",
+        "Assets/RobotArenaArt/Environment/Rim/bl.png",
+        "Assets/RobotArenaArt/Environment/table_bl.png",
+        "Assets/RobotArenaArt/Environment/Rim/br.png",
+        "Assets/RobotArenaArt/Environment/table_br.png",
+        "Assets/RobotArenaArt/Environment/Rim/tr.png",
+        "Assets/RobotArenaArt/Environment/table_tr.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ENV-06",
+      "name": "Крепление/болт бортика",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/bolt.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ENV-07",
+      "name": "Узкая контактная тень края стола",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Modules/contact_shadow.png",
+        "Assets/RobotArenaArt/Environment/Markings/center.png",
+        "Assets/RobotArenaArt/Environment/Markings/corner.png",
+        "Assets/RobotArenaArt/Environment/Markings/ticks.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ENV-08",
+      "name": "Неподвижная стенка: прямой средний фрагмент",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Environment/wall_middle_0.png",
+        "Assets/RobotArenaArt/Environment/wall_middle_1.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_00.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_01.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_02.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_03.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_04.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_05.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_06.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_07.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_08.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_09.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_10.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_11.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/fill.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_000.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_001.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_002.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_003.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_004.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_005.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_006.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_007.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_008.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_009.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_010.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_011.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_012.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_013.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_014.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_015.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_019.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_023.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_027.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_031.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_038.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_039.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_046.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_047.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_055.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_063.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_076.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_077.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_078.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_079.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_095.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_110.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_111.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_127.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_137.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_139.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_141.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_143.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_155.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_159.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_175.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_191.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_205.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_207.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_223.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_239.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_255.png"
+      ],
+      "notes": "V3:47 connected autotiles64x64. Outeroutline only; select from8neighbor topology, never random colors/directions."
+    },
+    {
+      "id": "ENV-09",
+      "name": "Концы стенки",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Environment/wall_cap_0.png",
+        "Assets/RobotArenaArt/Environment/wall_cap_1.png",
+        "Assets/RobotArenaArt/Environment/wall_cap_2.png",
+        "Assets/RobotArenaArt/Environment/wall_cap_3.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_00.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_01.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_02.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_03.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_04.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_05.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_06.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_07.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_08.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_09.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_10.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_11.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_000.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_001.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_002.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_003.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_004.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_005.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_006.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_007.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_008.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_009.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_010.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_011.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_012.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_013.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_014.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_015.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_019.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_023.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_027.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_031.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_038.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_039.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_046.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_047.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_055.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_063.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_076.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_077.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_078.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_079.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_095.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_110.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_111.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_127.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_137.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_139.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_141.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_143.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_155.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_159.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_175.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_191.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_205.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_207.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_223.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_239.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_255.png"
+      ],
+      "notes": "V3:47 connected autotiles64x64. Outeroutline only; select from8neighbor topology, never random colors/directions."
+    },
+    {
+      "id": "ENV-10",
+      "name": "Повороты стенки для Г-образных схем",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Environment/wall_corner_0.png",
+        "Assets/RobotArenaArt/Environment/wall_corner_1.png",
+        "Assets/RobotArenaArt/Environment/wall_corner_2.png",
+        "Assets/RobotArenaArt/Environment/wall_corner_3.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_00.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_01.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_02.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_03.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_04.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_05.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_06.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_07.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_08.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_09.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_10.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_11.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_000.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_001.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_002.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_003.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_004.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_005.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_006.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_007.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_008.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_009.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_010.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_011.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_012.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_013.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_014.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_015.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_019.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_023.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_027.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_031.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_038.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_039.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_046.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_047.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_055.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_063.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_076.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_077.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_078.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_079.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_095.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_110.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_111.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_127.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_137.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_139.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_141.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_143.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_155.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_159.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_175.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_191.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_205.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_207.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_223.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_239.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_255.png"
+      ],
+      "notes": "V3:47 connected autotiles64x64. Outeroutline only; select from8neighbor topology, never random colors/directions."
+    },
+    {
+      "id": "ENV-11",
+      "name": "Короткий отдельный блок стенки",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Environment/wall_block_0.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_00.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_01.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_02.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_03.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_04.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_05.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_06.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_07.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_08.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_09.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_10.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_11.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_000.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_001.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_002.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_003.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_004.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_005.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_006.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_007.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_008.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_009.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_010.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_011.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_012.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_013.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_014.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_015.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_019.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_023.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_027.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_031.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_038.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_039.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_046.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_047.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_055.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_063.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_076.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_077.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_078.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_079.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_095.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_110.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_111.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_127.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_137.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_139.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_141.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_143.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_155.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_159.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_175.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_191.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_205.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_207.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_223.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_239.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_255.png"
+      ],
+      "notes": "V3:47 connected autotiles64x64. Outeroutline only; select from8neighbor topology, never random colors/directions."
+    },
+    {
+      "id": "ENV-12",
+      "name": "Верх стенки с жёлтой предупредительной полосой",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Environment/wall_middle_0.png",
+        "Assets/RobotArenaArt/Environment/wall_middle_1.png",
+        "Assets/RobotArenaArt/Environment/wall_cap_0.png",
+        "Assets/RobotArenaArt/Environment/wall_cap_1.png",
+        "Assets/RobotArenaArt/Environment/wall_cap_2.png",
+        "Assets/RobotArenaArt/Environment/wall_cap_3.png",
+        "Assets/RobotArenaArt/Environment/wall_corner_0.png",
+        "Assets/RobotArenaArt/Environment/wall_corner_1.png",
+        "Assets/RobotArenaArt/Environment/wall_corner_2.png",
+        "Assets/RobotArenaArt/Environment/wall_corner_3.png",
+        "Assets/RobotArenaArt/Environment/wall_block_0.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_00.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_01.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_02.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_03.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_04.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_05.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_06.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_07.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_08.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_09.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_10.png",
+        "Assets/RobotArenaArt/Environment/Walls/block_11.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_000.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_001.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_002.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_003.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_004.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_005.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_006.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_007.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_008.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_009.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_010.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_011.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_012.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_013.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_014.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_015.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_019.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_023.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_027.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_031.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_038.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_039.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_046.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_047.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_055.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_063.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_076.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_077.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_078.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_079.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_095.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_110.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_111.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_127.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_137.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_139.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_141.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_143.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_155.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_159.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_175.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_191.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_205.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_207.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_223.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_239.png",
+        "Assets/RobotArenaArt/Environment/Walls/Connected/mask_255.png"
+      ],
+      "notes": "V3:47 connected autotiles64x64. Outeroutline only; select from8neighbor topology, never random colors/directions."
+    },
+    {
+      "id": "PROP-01",
+      "name": "Деревянная столешница малого верстака",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Props/bench.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "PROP-02",
+      "name": "Столешница длинного верстака",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Props/bench_long.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "PROP-03",
+      "name": "Вертикальный верстак у края сцены",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Props/bench_vertical.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "PROP-04",
+      "name": "Верх закрытого шкафчика, зелёный",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Props/cabinet.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "PROP-05",
+      "name": "Верх квадратной тумбы",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Props/cabinet_square.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "PROP-06",
+      "name": "Сиденье табурета сверху",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Props/stool.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "PROP-07",
+      "name": "Крышка деревянного ящика",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Props/crate.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "PROP-08",
+      "name": "Ящик для инструментов сверху",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Props/toolcase.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "PROP-09",
+      "name": "Лоток с тремя отделениями",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Props/tray.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "PROP-10",
+      "name": "Гаечный ключ",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Props/wrench.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "PROP-11",
+      "name": "Отвёртка",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Props/screwdriver.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "PROP-12",
+      "name": "Шестерёнка крупная",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Props/gear_big.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "PROP-13",
+      "name": "Шестерёнка малая",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Props/gear_small.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "PROP-14",
+      "name": "Гайка",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Props/nut.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "PROP-15",
+      "name": "Болт/винт",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Props/screw.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "PROP-16",
+      "name": "Моток кабеля с разъёмом",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Props/cable.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "PROP-17",
+      "name": "Закрытая коробка с деталями",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Props/box.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "PROP-18",
+      "name": "Растение сверху",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Props/plant_a.png",
+        "Assets/RobotArenaArt/Props/plant_b.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-01",
+      "name": "Деревянная рамка общего окна",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/NineSlice/wood_panel.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-02",
+      "name": "Кремовая карточка/табличка",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/NineSlice/cream_panel.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-03",
+      "name": "Тёмно-коричневая внутренняя панель",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/NineSlice/dark_panel.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-04",
+      "name": "Зелёная полоса заголовка",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/NineSlice/green_header.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-05",
+      "name": "Декоративный болт панели",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/bolt.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-06",
+      "name": "Оранжевая основная кнопка",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/NineSlice/orange_button_normal.png",
+        "Assets/RobotArenaArt/UI/NineSlice/orange_button_hover.png",
+        "Assets/RobotArenaArt/UI/NineSlice/orange_button_pressed.png",
+        "Assets/RobotArenaArt/UI/NineSlice/orange_button_disabled.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-07",
+      "name": "Кремовая вторичная кнопка",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/NineSlice/cream_button_normal.png",
+        "Assets/RobotArenaArt/UI/NineSlice/cream_button_hover.png",
+        "Assets/RobotArenaArt/UI/NineSlice/cream_button_pressed.png",
+        "Assets/RobotArenaArt/UI/NineSlice/cream_button_disabled.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-08",
+      "name": "Маленькая квадратная кнопка",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/NineSlice/square_button_normal.png",
+        "Assets/RobotArenaArt/UI/NineSlice/square_button_hover.png",
+        "Assets/RobotArenaArt/UI/NineSlice/square_button_pressed.png",
+        "Assets/RobotArenaArt/UI/NineSlice/square_button_disabled.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-09",
+      "name": "Тонкий разделитель",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Common/divider.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-10",
+      "name": "Рамка полосы показателя",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Common/bar_frame.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-11",
+      "name": "Пустой сегмент полосы",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Common/bar_empty.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-12",
+      "name": "Заполненный сегмент полосы",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Common/bar_fill.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-13",
+      "name": "Дорожка и бегунок настройки громкости",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Common/slider_track.png",
+        "Assets/RobotArenaArt/UI/Common/slider_thumb_normal.png",
+        "Assets/RobotArenaArt/UI/Common/slider_thumb_hover.png",
+        "Assets/RobotArenaArt/UI/Common/slider_thumb_pressed.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-14",
+      "name": "Переключатель/флажок",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Common/checkbox_off.png",
+        "Assets/RobotArenaArt/UI/Common/checkbox_on.png",
+        "Assets/RobotArenaArt/UI/Common/checkbox_disabled.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-15",
+      "name": "Выпадающий список выбора устройства",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/chevron_down.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-16",
+      "name": "Подсказка со стрелкой-указателем",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/tooltip_tail.png",
+        "Assets/RobotArenaArt/UI/Common/tooltip_tail_0.png",
+        "Assets/RobotArenaArt/UI/Common/tooltip_tail_1.png",
+        "Assets/RobotArenaArt/UI/Common/tooltip_tail_2.png",
+        "Assets/RobotArenaArt/UI/Common/tooltip_tail_3.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-17",
+      "name": "Затемнение под модальным окном",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Common/white_pixel.png"
+      ],
+      "notes": "Белый пиксель окрашивать и задавать прозрачность в UI."
+    },
+    {
+      "id": "UI-18",
+      "name": "Рамка выбранного элемента/фокуса",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Builder/valid_64x64.png",
+        "Assets/RobotArenaArt/UI/Builder/valid_64x128.png",
+        "Assets/RobotArenaArt/UI/Builder/valid_128x64.png",
+        "Assets/RobotArenaArt/UI/Builder/valid_128x128.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-19",
+      "name": "Полоса прокрутки и её бегунок",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Common/slider_track.png",
+        "Assets/RobotArenaArt/UI/Common/slider_thumb_normal.png",
+        "Assets/RobotArenaArt/UI/Common/slider_thumb_hover.png",
+        "Assets/RobotArenaArt/UI/Common/slider_thumb_pressed.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ICO-01",
+      "name": "Стрелка назад",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/back.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ICO-02",
+      "name": "Крестик закрытия",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/close.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ICO-03",
+      "name": "Пауза",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/pause.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ICO-04",
+      "name": "Треугольник запуска/продолжения",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/play.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ICO-05",
+      "name": "Повтор/перезапуск",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/restart.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ICO-06",
+      "name": "Шестерёнка настроек",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/settings.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ICO-07",
+      "name": "Громкость/динамик",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/sound.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ICO-08",
+      "name": "Музыкальная нота",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/music.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ICO-09",
+      "name": "Молния",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/energy.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ICO-10",
+      "name": "Гиря",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/mass.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ICO-11",
+      "name": "Сердце",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/heart.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ICO-12",
+      "name": "Двойной шеврон скорости",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/speed.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ICO-13",
+      "name": "Игрушечная пуля",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/bullet.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ICO-14",
+      "name": "Прицел",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/crosshair.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ICO-15",
+      "name": "Щит",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/shield.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ICO-16",
+      "name": "Секундомер",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/stopwatch.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ICO-17",
+      "name": "Галочка",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/check.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ICO-18",
+      "name": "Ошибка/восклицательный знак",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/error.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ICO-19",
+      "name": "Разорванная связь",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/disconnected.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ICO-20",
+      "name": "Нет питания",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/no_power.png",
+        "Assets/RobotArenaArt/Modules/no_power.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ICO-21",
+      "name": "Корзина/возврат детали в запас",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/trash.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ICO-22",
+      "name": "Схема из стенок",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/arena.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ICO-23",
+      "name": "Сетка клеток",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/grid.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ICO-24",
+      "name": "Ядро",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/core.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ICO-25",
+      "name": "Микрофон",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/microphone.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ICO-26",
+      "name": "Веб-камера",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/webcam.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ICO-27",
+      "name": "Рука/жест",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/hand.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ICO-28",
+      "name": "Запрет/перечёркивание",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/prohibit.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "ICO-29",
+      "name": "Следующий уровень",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/next.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-B01",
+      "name": "Зелёная поверхность коврика",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Builder/mat_surface.png",
+        "Assets/RobotArenaArt/UI/Builder/mat_grid.png",
+        "Assets/RobotArenaArt/UI/Builder/mat_grid_tile.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_00.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_01.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_02.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_03.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_04.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_05.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_06.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_07.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_08.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_09.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_10.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_11.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_12.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_13.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_14.png",
+        "Assets/RobotArenaArt/Environment/Variants/mat_15.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-B02",
+      "name": "Край коврика",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/NineSlice/mat_border.png",
+        "Assets/RobotArenaArt/UI/Builder/mat_border_side_0.png",
+        "Assets/RobotArenaArt/UI/Builder/mat_border_side_1.png",
+        "Assets/RobotArenaArt/UI/Builder/mat_border_side_2.png",
+        "Assets/RobotArenaArt/UI/Builder/mat_border_side_3.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-B03",
+      "name": "Небольшие отметки линейки",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Builder/ruler_ticks.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-B04",
+      "name": "Декоративные диагональные направляющие коврика",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Builder/diagonal.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-B05",
+      "name": "Слот инвентаря",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/NineSlice/inventory_slot_normal.png",
+        "Assets/RobotArenaArt/UI/NineSlice/inventory_slot_hover.png",
+        "Assets/RobotArenaArt/UI/NineSlice/inventory_slot_pressed.png",
+        "Assets/RobotArenaArt/UI/NineSlice/inventory_slot_disabled.png",
+        "Assets/RobotArenaArt/UI/Counters/glyph_0.png",
+        "Assets/RobotArenaArt/UI/Counters/glyph_1.png",
+        "Assets/RobotArenaArt/UI/Counters/glyph_2.png",
+        "Assets/RobotArenaArt/UI/Counters/glyph_3.png",
+        "Assets/RobotArenaArt/UI/Counters/glyph_4.png",
+        "Assets/RobotArenaArt/UI/Counters/glyph_5.png",
+        "Assets/RobotArenaArt/UI/Counters/glyph_6.png",
+        "Assets/RobotArenaArt/UI/Counters/glyph_7.png",
+        "Assets/RobotArenaArt/UI/Counters/glyph_8.png",
+        "Assets/RobotArenaArt/UI/Counters/glyph_9.png",
+        "Assets/RobotArenaArt/UI/Counters/glyph_times.png",
+        "Assets/RobotArenaArt/UI/Counters/glyph_plus.png",
+        "Assets/RobotArenaArt/UI/Counters/Counts/count_00.png",
+        "Assets/RobotArenaArt/UI/Counters/Counts/count_01.png",
+        "Assets/RobotArenaArt/UI/Counters/Counts/count_02.png",
+        "Assets/RobotArenaArt/UI/Counters/Counts/count_03.png",
+        "Assets/RobotArenaArt/UI/Counters/Counts/count_04.png",
+        "Assets/RobotArenaArt/UI/Counters/Counts/count_05.png",
+        "Assets/RobotArenaArt/UI/Counters/Counts/count_06.png",
+        "Assets/RobotArenaArt/UI/Counters/Counts/count_07.png",
+        "Assets/RobotArenaArt/UI/Counters/Counts/count_08.png",
+        "Assets/RobotArenaArt/UI/Counters/Counts/count_09.png",
+        "Assets/RobotArenaArt/UI/Counters/Counts/count_10.png",
+        "Assets/RobotArenaArt/UI/Counters/Counts/count_11.png",
+        "Assets/RobotArenaArt/UI/Counters/Counts/count_12.png",
+        "Assets/RobotArenaArt/UI/Counters/Counts/count_13.png",
+        "Assets/RobotArenaArt/UI/Counters/Counts/count_14.png",
+        "Assets/RobotArenaArt/UI/Counters/Counts/count_15.png",
+        "Assets/RobotArenaArt/UI/Counters/Counts/count_16.png",
+        "Assets/RobotArenaArt/UI/Counters/Counts/count_17.png",
+        "Assets/RobotArenaArt/UI/Counters/Counts/count_18.png",
+        "Assets/RobotArenaArt/UI/Counters/Counts/count_19.png",
+        "Assets/RobotArenaArt/UI/Counters/Counts/count_20.png",
+        "Assets/RobotArenaArt/UI/Counters/Counts/count_21.png",
+        "Assets/RobotArenaArt/UI/Counters/Counts/count_22.png",
+        "Assets/RobotArenaArt/UI/Counters/Counts/count_23.png",
+        "Assets/RobotArenaArt/UI/Counters/Counts/count_24.png",
+        "Assets/RobotArenaArt/UI/Counters/Counts/count_25.png"
+      ],
+      "notes": "V2: количество деталей рисуется кастомными цифровыми спрайтами из UI/Counters, не TTF."
+    },
+    {
+      "id": "UI-B06",
+      "name": "Выделение допустимого размещения",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Builder/valid_64x64.png",
+        "Assets/RobotArenaArt/UI/Builder/valid_64x128.png",
+        "Assets/RobotArenaArt/UI/Builder/valid_128x64.png",
+        "Assets/RobotArenaArt/UI/Builder/valid_128x128.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-B07",
+      "name": "Выделение недопустимого размещения",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Builder/invalid_64x64.png",
+        "Assets/RobotArenaArt/UI/Builder/invalid_64x128.png",
+        "Assets/RobotArenaArt/UI/Builder/invalid_128x64.png",
+        "Assets/RobotArenaArt/UI/Builder/invalid_128x128.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-B08",
+      "name": "Выделение несоединённого модуля",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Builder/disconnected_64x64.png",
+        "Assets/RobotArenaArt/UI/Builder/disconnected_64x128.png",
+        "Assets/RobotArenaArt/UI/Builder/disconnected_128x64.png",
+        "Assets/RobotArenaArt/UI/Builder/disconnected_128x128.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-B09",
+      "name": "Призрак переносимой детали",
+      "status": "shared",
+      "files": [
+        "Assets/RobotArenaArt/Modules/Disabled/armor.png",
+        "Assets/RobotArenaArt/Modules/Disabled/battery.png",
+        "Assets/RobotArenaArt/Modules/Disabled/chassis.png",
+        "Assets/RobotArenaArt/Modules/Disabled/core.png",
+        "Assets/RobotArenaArt/Modules/Disabled/grenade.png",
+        "Assets/RobotArenaArt/Modules/Disabled/machinegun.png",
+        "Assets/RobotArenaArt/Modules/Disabled/rifle.png",
+        "Assets/RobotArenaArt/Modules/Disabled/shield.png",
+        "Assets/RobotArenaArt/Modules/Disabled/shotgun.png",
+        "Assets/RobotArenaArt/Modules/Enemy/armor.png",
+        "Assets/RobotArenaArt/Modules/Enemy/battery.png",
+        "Assets/RobotArenaArt/Modules/Enemy/chassis.png",
+        "Assets/RobotArenaArt/Modules/Enemy/core.png",
+        "Assets/RobotArenaArt/Modules/Enemy/grenade.png",
+        "Assets/RobotArenaArt/Modules/Enemy/machinegun.png",
+        "Assets/RobotArenaArt/Modules/Enemy/rifle.png",
+        "Assets/RobotArenaArt/Modules/Enemy/shield.png",
+        "Assets/RobotArenaArt/Modules/Enemy/shotgun.png",
+        "Assets/RobotArenaArt/Modules/EnemyDisabled/armor.png",
+        "Assets/RobotArenaArt/Modules/EnemyDisabled/battery.png",
+        "Assets/RobotArenaArt/Modules/EnemyDisabled/chassis.png",
+        "Assets/RobotArenaArt/Modules/EnemyDisabled/core.png",
+        "Assets/RobotArenaArt/Modules/EnemyDisabled/grenade.png",
+        "Assets/RobotArenaArt/Modules/EnemyDisabled/machinegun.png",
+        "Assets/RobotArenaArt/Modules/EnemyDisabled/rifle.png",
+        "Assets/RobotArenaArt/Modules/EnemyDisabled/shield.png",
+        "Assets/RobotArenaArt/Modules/EnemyDisabled/shotgun.png",
+        "Assets/RobotArenaArt/Modules/Player/armor.png",
+        "Assets/RobotArenaArt/Modules/Player/battery.png",
+        "Assets/RobotArenaArt/Modules/Player/chassis.png",
+        "Assets/RobotArenaArt/Modules/Player/core.png",
+        "Assets/RobotArenaArt/Modules/Player/grenade.png",
+        "Assets/RobotArenaArt/Modules/Player/machinegun.png",
+        "Assets/RobotArenaArt/Modules/Player/rifle.png",
+        "Assets/RobotArenaArt/Modules/Player/shield.png",
+        "Assets/RobotArenaArt/Modules/Player/shotgun.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-B10",
+      "name": "Иконка каждого из девяти типов модулей",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Builder/ModuleIcons/core.png",
+        "Assets/RobotArenaArt/UI/Builder/ModuleIcons/chassis.png",
+        "Assets/RobotArenaArt/UI/Builder/ModuleIcons/armor.png",
+        "Assets/RobotArenaArt/UI/Builder/ModuleIcons/battery.png",
+        "Assets/RobotArenaArt/UI/Builder/ModuleIcons/machinegun.png",
+        "Assets/RobotArenaArt/UI/Builder/ModuleIcons/rifle.png",
+        "Assets/RobotArenaArt/UI/Builder/ModuleIcons/grenade.png",
+        "Assets/RobotArenaArt/UI/Builder/ModuleIcons/shotgun.png",
+        "Assets/RobotArenaArt/UI/Builder/ModuleIcons/shield.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-B11",
+      "name": "Иллюстрация выбранного модуля в карточке",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Builder/ModuleIcons/core.png",
+        "Assets/RobotArenaArt/UI/Builder/ModuleIcons/chassis.png",
+        "Assets/RobotArenaArt/UI/Builder/ModuleIcons/armor.png",
+        "Assets/RobotArenaArt/UI/Builder/ModuleIcons/battery.png",
+        "Assets/RobotArenaArt/UI/Builder/ModuleIcons/machinegun.png",
+        "Assets/RobotArenaArt/UI/Builder/ModuleIcons/rifle.png",
+        "Assets/RobotArenaArt/UI/Builder/ModuleIcons/grenade.png",
+        "Assets/RobotArenaArt/UI/Builder/ModuleIcons/shotgun.png",
+        "Assets/RobotArenaArt/UI/Builder/ModuleIcons/shield.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-B12",
+      "name": "Рамка плашки «СХЕМА АРЕНЫ»",
+      "status": "shared",
+      "files": [
+        "Assets/RobotArenaArt/UI/Builder/valid_128x128.png",
+        "Assets/RobotArenaArt/UI/Builder/valid_128x64.png",
+        "Assets/RobotArenaArt/UI/Builder/valid_64x128.png",
+        "Assets/RobotArenaArt/UI/Builder/valid_64x64.png",
+        "Assets/RobotArenaArt/UI/NineSlice/cream_panel.png",
+        "Assets/RobotArenaArt/UI/NineSlice/green_header.png",
+        "Assets/RobotArenaArt/UI/NineSlice/wood_panel.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-B13",
+      "name": "Миниатюры четырёх схем",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Builder/Arenas/scheme_01.png",
+        "Assets/RobotArenaArt/UI/Builder/Arenas/scheme_02.png",
+        "Assets/RobotArenaArt/UI/Builder/Arenas/scheme_03.png",
+        "Assets/RobotArenaArt/UI/Builder/Arenas/scheme_04.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-B14",
+      "name": "Отметка выбранной схемы",
+      "status": "shared",
+      "files": [
+        "Assets/RobotArenaArt/UI/Builder/valid_128x128.png",
+        "Assets/RobotArenaArt/UI/Builder/valid_128x64.png",
+        "Assets/RobotArenaArt/UI/Builder/valid_64x128.png",
+        "Assets/RobotArenaArt/UI/Builder/valid_64x64.png",
+        "Assets/RobotArenaArt/UI/Icons/check.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-B15",
+      "name": "Панель проверок сборки",
+      "status": "shared",
+      "files": [
+        "Assets/RobotArenaArt/Modules/no_power.png",
+        "Assets/RobotArenaArt/UI/Icons/check.png",
+        "Assets/RobotArenaArt/UI/Icons/disconnected.png",
+        "Assets/RobotArenaArt/UI/Icons/error.png",
+        "Assets/RobotArenaArt/UI/Icons/no_power.png",
+        "Assets/RobotArenaArt/UI/NineSlice/dark_panel.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-C01",
+      "name": "Карточка уровня",
+      "status": "shared",
+      "files": [
+        "Assets/RobotArenaArt/UI/NineSlice/cream_panel.png",
+        "Assets/RobotArenaArt/UI/NineSlice/wood_panel.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-C02",
+      "name": "Превью робота-противника",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Campaign/Opponents/level_01.png",
+        "Assets/RobotArenaArt/UI/Campaign/Opponents/level_02.png",
+        "Assets/RobotArenaArt/UI/Campaign/Opponents/level_03.png",
+        "Assets/RobotArenaArt/UI/Campaign/Opponents/level_04.png",
+        "Assets/RobotArenaArt/UI/Campaign/Opponents/level_05.png",
+        "Assets/RobotArenaArt/UI/Campaign/Opponents/level_06.png",
+        "Assets/RobotArenaArt/UI/Campaign/Opponents/level_07.png",
+        "Assets/RobotArenaArt/UI/Campaign/Opponents/level_08.png",
+        "Assets/RobotArenaArt/UI/Campaign/Opponents/level_09.png",
+        "Assets/RobotArenaArt/UI/Campaign/Opponents/level_10.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-C03",
+      "name": "Пустая звезда",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/star_empty.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-C04",
+      "name": "Полученная звезда",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/star_gold.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-C05",
+      "name": "Блеск новой звезды",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Campaign/star_award/frame_00.png",
+        "Assets/RobotArenaArt/UI/Campaign/star_award/frame_01.png",
+        "Assets/RobotArenaArt/UI/Campaign/star_award/frame_02.png",
+        "Assets/RobotArenaArt/UI/Campaign/star_award/frame_03.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-C06",
+      "name": "Плашка задачи",
+      "status": "shared",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/check.png",
+        "Assets/RobotArenaArt/UI/NineSlice/cream_panel.png",
+        "Assets/RobotArenaArt/UI/NineSlice/dark_panel.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-C07",
+      "name": "Значок первого прохождения",
+      "status": "shared",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/check.png",
+        "Assets/RobotArenaArt/UI/Icons/star_gold.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-C08",
+      "name": "Заголовочная табличка победы",
+      "status": "shared",
+      "files": [
+        "Assets/RobotArenaArt/UI/NineSlice/cream_panel.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-C09",
+      "name": "Заголовочная табличка поражения",
+      "status": "shared",
+      "files": [
+        "Assets/RobotArenaArt/UI/NineSlice/cream_panel.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-C10",
+      "name": "Небольшие частицы радости при победе",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Campaign/confetti_0.png",
+        "Assets/RobotArenaArt/UI/Campaign/confetti_1.png",
+        "Assets/RobotArenaArt/UI/Campaign/confetti_2.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-C11",
+      "name": "Панель результатов",
+      "status": "shared",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/star_empty.png",
+        "Assets/RobotArenaArt/UI/Icons/star_gold.png",
+        "Assets/RobotArenaArt/UI/NineSlice/cream_panel.png",
+        "Assets/RobotArenaArt/UI/NineSlice/wood_panel.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-F01",
+      "name": "Полоса состояния над роботом",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Common/bar_frame.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-F02",
+      "name": "Маркер игрока/противника",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Combat/marker_player.png",
+        "Assets/RobotArenaArt/UI/Combat/marker_enemy.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-F03",
+      "name": "Плашка времени",
+      "status": "shared",
+      "files": [
+        "Assets/RobotArenaArt/UI/NineSlice/cream_panel.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-F04",
+      "name": "Отметка целевого времени звезды",
+      "status": "shared",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/star_empty.png",
+        "Assets/RobotArenaArt/UI/Icons/star_gold.png",
+        "Assets/RobotArenaArt/UI/Icons/stopwatch.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-F05",
+      "name": "Прицел мыши",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Combat/crosshair.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-F06",
+      "name": "Подтверждение попадания возле прицела",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Combat/hit_confirm/frame_00.png",
+        "Assets/RobotArenaArt/UI/Combat/hit_confirm/frame_01.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-F07",
+      "name": "Кнопка паузы",
+      "status": "shared",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/pause.png",
+        "Assets/RobotArenaArt/UI/NineSlice/square_button_disabled.png",
+        "Assets/RobotArenaArt/UI/NineSlice/square_button_hover.png",
+        "Assets/RobotArenaArt/UI/NineSlice/square_button_normal.png",
+        "Assets/RobotArenaArt/UI/NineSlice/square_button_pressed.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "UI-F08",
+      "name": "Подсказка готовности щита",
+      "status": "shared",
+      "files": [
+        "Assets/RobotArenaArt/Shield/Cooldown/step_00.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_01.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_02.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_03.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_04.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_05.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_06.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_07.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_08.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_09.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_10.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_11.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_12.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_13.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_14.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_15.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_16.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_17.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_18.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_19.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_20.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_21.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_22.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_23.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_24.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_25.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_26.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_27.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_28.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_29.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_30.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_31.png",
+        "Assets/RobotArenaArt/Shield/Cooldown/step_32.png",
+        "Assets/RobotArenaArt/Shield/cooldown_mask.png",
+        "Assets/RobotArenaArt/Shield/cooldown_track.png",
+        "Assets/RobotArenaArt/Shield/ready.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "TUT-01",
+      "name": "Клавиша клавиатуры",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Input/keycap/frame_00.png",
+        "Assets/RobotArenaArt/UI/Input/keycap/frame_01.png",
+        "Assets/RobotArenaArt/UI/Input/Keys/W_up.png",
+        "Assets/RobotArenaArt/UI/Input/Keys/W_down.png",
+        "Assets/RobotArenaArt/UI/Input/Keys/A_up.png",
+        "Assets/RobotArenaArt/UI/Input/Keys/A_down.png",
+        "Assets/RobotArenaArt/UI/Input/Keys/S_up.png",
+        "Assets/RobotArenaArt/UI/Input/Keys/S_down.png",
+        "Assets/RobotArenaArt/UI/Input/Keys/D_up.png",
+        "Assets/RobotArenaArt/UI/Input/Keys/D_down.png",
+        "Assets/RobotArenaArt/UI/Input/Keys/Esc_up.png",
+        "Assets/RobotArenaArt/UI/Input/Keys/Esc_down.png"
+      ],
+      "notes": "V2: отдельные кастомные W/A/S/D/Esc, up/down; буквы уже внутри рисунка."
+    },
+    {
+      "id": "TUT-02",
+      "name": "Мышь сверху",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Input/mouse/frame_00.png",
+        "Assets/RobotArenaArt/UI/Input/mouse/frame_01.png",
+        "Assets/RobotArenaArt/UI/Input/mouse/frame_02.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "TUT-03",
+      "name": "Обучающий курсор",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Icons/cursor.png",
+        "Assets/RobotArenaArt/UI/Icons/cursor_grab.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "TUT-04",
+      "name": "Указатель на важный элемент",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Input/lesson_arrow_0.png",
+        "Assets/RobotArenaArt/UI/Input/lesson_arrow_1.png",
+        "Assets/RobotArenaArt/UI/Input/lesson_arrow_2.png",
+        "Assets/RobotArenaArt/UI/Input/lesson_arrow_3.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "TUT-05",
+      "name": "Пунктирный путь перетаскивания в обучении",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Projectiles/trail_mask.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "TUT-06",
+      "name": "Подсветка области урока",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Builder/valid_64x64.png",
+        "Assets/RobotArenaArt/UI/Builder/valid_64x128.png",
+        "Assets/RobotArenaArt/UI/Builder/valid_128x64.png",
+        "Assets/RobotArenaArt/UI/Builder/valid_128x128.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "TUT-07",
+      "name": "Иллюстрация руки: указательный палец",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Input/pinch_tutorial/frame_00.png",
+        "Assets/RobotArenaArt/UI/Input/pinch_tutorial/frame_01.png",
+        "Assets/RobotArenaArt/UI/Input/pinch_tutorial/frame_02.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "TUT-08",
+      "name": "Иллюстрация руки: щипок",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Input/pinch_tutorial/frame_00.png",
+        "Assets/RobotArenaArt/UI/Input/pinch_tutorial/frame_01.png",
+        "Assets/RobotArenaArt/UI/Input/pinch_tutorial/frame_02.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "TUT-09",
+      "name": "Промежуточное сведение пальцев",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Input/pinch_tutorial/frame_00.png",
+        "Assets/RobotArenaArt/UI/Input/pinch_tutorial/frame_01.png",
+        "Assets/RobotArenaArt/UI/Input/pinch_tutorial/frame_02.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "INP-01",
+      "name": "Голосовой ввод готов",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Input/voice_ready.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "INP-02",
+      "name": "Микрофон слушает",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Input/mic_listening_0.png",
+        "Assets/RobotArenaArt/UI/Input/mic_listening_1.png",
+        "Assets/RobotArenaArt/UI/Input/mic_listening_2.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "INP-03",
+      "name": "Команда распознана",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Input/voice_ok.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "INP-04",
+      "name": "Микрофон выключен/недоступен",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Input/voice_off.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "INP-05",
+      "name": "Камера готова",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Input/camera_ready.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "INP-06",
+      "name": "Рука отслеживается",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Input/hand_tracked.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "INP-07",
+      "name": "Рука потеряна/камера недоступна",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Input/hand_lost.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "INP-08",
+      "name": "Жестовый курсор",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/UI/Input/gesture_open.png",
+        "Assets/RobotArenaArt/UI/Input/gesture_grab.png",
+        "Assets/RobotArenaArt/UI/Input/gesture_invalid.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "INP-09",
+      "name": "Рамка предпросмотра камеры",
+      "status": "shared",
+      "files": [
+        "Assets/RobotArenaArt/UI/NineSlice/dark_panel.png",
+        "Assets/RobotArenaArt/UI/NineSlice/wood_panel.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "STORY-01",
+      "name": "Фон рабочего стола для заставки",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Story/workbench_background.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "STORY-02",
+      "name": "Руки/рукава героя сверху",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Story/hero_hand_right.png",
+        "Assets/RobotArenaArt/Story/hero_hand_left.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "STORY-03",
+      "name": "Руки/рукава друзей сверху",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Story/friend_hand_right.png",
+        "Assets/RobotArenaArt/Story/friend_hand_left.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "STORY-04",
+      "name": "Три композиции вступления",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Story/intro_01.png",
+        "Assets/RobotArenaArt/Story/intro_02.png",
+        "Assets/RobotArenaArt/Story/intro_03.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "STORY-05",
+      "name": "Подложка текста",
+      "status": "shared",
+      "files": [
+        "Assets/RobotArenaArt/UI/NineSlice/cream_panel.png",
+        "Assets/RobotArenaArt/UI/NineSlice/dark_panel.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "STORY-06",
+      "name": "Кнопка «Пропустить»",
+      "status": "shared",
+      "files": [
+        "Assets/RobotArenaArt/UI/NineSlice/cream_button_disabled.png",
+        "Assets/RobotArenaArt/UI/NineSlice/cream_button_hover.png",
+        "Assets/RobotArenaArt/UI/NineSlice/cream_button_normal.png",
+        "Assets/RobotArenaArt/UI/NineSlice/cream_button_pressed.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "MENU-01",
+      "name": "Фон выбора уровней/главного меню",
+      "status": "provided",
+      "files": [
+        "Assets/RobotArenaArt/Story/workbench_background.png"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "MENU-02",
+      "name": "Логотип/название игры",
+      "status": "text",
+      "files": [
+        "Assets/RobotArenaArt/Fonts/m6x11cyrillic.ttf"
+      ],
+      "notes": "Название игры не утверждено: использовать выбранный шрифт. Отдельный придуманный логотип не добавлен."
+    }
+  ]
+}

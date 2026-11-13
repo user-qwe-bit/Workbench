@@ -1,0 +1,24 @@
+{
+  "font_dependency": null,
+  "glyph_canvas": [
+    24,
+    28
+  ],
+  "advance_px": 22,
+  "baseline_px": 26,
+  "characters": {
+    "0": "Assets/RobotArenaArt/UI/Counters/glyph_0.png",
+    "1": "Assets/RobotArenaArt/UI/Counters/glyph_1.png",
+    "2": "Assets/RobotArenaArt/UI/Counters/glyph_2.png",
+    "3": "Assets/RobotArenaArt/UI/Counters/glyph_3.png",
+    "4": "Assets/RobotArenaArt/UI/Counters/glyph_4.png",
+    "5": "Assets/RobotArenaArt/UI/Counters/glyph_5.png",
+    "6": "Assets/RobotArenaArt/UI/Counters/glyph_6.png",
+    "7": "Assets/RobotArenaArt/UI/Counters/glyph_7.png",
+    "8": "Assets/RobotArenaArt/UI/Counters/glyph_8.png",
+    "9": "Assets/RobotArenaArt/UI/Counters/glyph_9.png",
+    "×": "Assets/RobotArenaArt/UI/Counters/glyph_times.png",
+    "+": "Assets/RobotArenaArt/UI/Counters/glyph_plus.png"
+  },
+  "layout": "Right-align the complete counter in the inventory slot. Use these sprites for inventory quantities, not TTF text. For any integer concatenate times + digits. Counts0..25 also supplied precomposed."
+}

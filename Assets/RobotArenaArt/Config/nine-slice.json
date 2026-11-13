@@ -1,0 +1,671 @@
+{
+  "coordinate_order": "left,bottom,right,top",
+  "items": [
+    {
+      "name": "wood_panel",
+      "path": "Assets/RobotArenaArt/UI/NineSlice/wood_panel.png",
+      "border_lbrt": [
+        12,
+        12,
+        12,
+        12
+      ],
+      "source_size": [
+        64,
+        64
+      ],
+      "minimum_size": [
+        24,
+        24
+      ],
+      "preferred_center_mode": "tile",
+      "parts": {
+        "tl": "Assets/RobotArenaArt/UI/NineSlice/Parts/wood_panel/tl.png",
+        "t": "Assets/RobotArenaArt/UI/NineSlice/Parts/wood_panel/t.png",
+        "tr": "Assets/RobotArenaArt/UI/NineSlice/Parts/wood_panel/tr.png",
+        "l": "Assets/RobotArenaArt/UI/NineSlice/Parts/wood_panel/l.png",
+        "c": "Assets/RobotArenaArt/UI/NineSlice/Parts/wood_panel/c.png",
+        "r": "Assets/RobotArenaArt/UI/NineSlice/Parts/wood_panel/r.png",
+        "bl": "Assets/RobotArenaArt/UI/NineSlice/Parts/wood_panel/bl.png",
+        "b": "Assets/RobotArenaArt/UI/NineSlice/Parts/wood_panel/b.png",
+        "br": "Assets/RobotArenaArt/UI/NineSlice/Parts/wood_panel/br.png"
+      }
+    },
+    {
+      "name": "cream_panel",
+      "path": "Assets/RobotArenaArt/UI/NineSlice/cream_panel.png",
+      "border_lbrt": [
+        12,
+        12,
+        12,
+        12
+      ],
+      "source_size": [
+        64,
+        64
+      ],
+      "minimum_size": [
+        24,
+        24
+      ],
+      "preferred_center_mode": "tile",
+      "parts": {
+        "tl": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_panel/tl.png",
+        "t": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_panel/t.png",
+        "tr": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_panel/tr.png",
+        "l": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_panel/l.png",
+        "c": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_panel/c.png",
+        "r": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_panel/r.png",
+        "bl": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_panel/bl.png",
+        "b": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_panel/b.png",
+        "br": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_panel/br.png"
+      }
+    },
+    {
+      "name": "dark_panel",
+      "path": "Assets/RobotArenaArt/UI/NineSlice/dark_panel.png",
+      "border_lbrt": [
+        12,
+        12,
+        12,
+        12
+      ],
+      "source_size": [
+        64,
+        64
+      ],
+      "minimum_size": [
+        24,
+        24
+      ],
+      "preferred_center_mode": "tile",
+      "parts": {
+        "tl": "Assets/RobotArenaArt/UI/NineSlice/Parts/dark_panel/tl.png",
+        "t": "Assets/RobotArenaArt/UI/NineSlice/Parts/dark_panel/t.png",
+        "tr": "Assets/RobotArenaArt/UI/NineSlice/Parts/dark_panel/tr.png",
+        "l": "Assets/RobotArenaArt/UI/NineSlice/Parts/dark_panel/l.png",
+        "c": "Assets/RobotArenaArt/UI/NineSlice/Parts/dark_panel/c.png",
+        "r": "Assets/RobotArenaArt/UI/NineSlice/Parts/dark_panel/r.png",
+        "bl": "Assets/RobotArenaArt/UI/NineSlice/Parts/dark_panel/bl.png",
+        "b": "Assets/RobotArenaArt/UI/NineSlice/Parts/dark_panel/b.png",
+        "br": "Assets/RobotArenaArt/UI/NineSlice/Parts/dark_panel/br.png"
+      }
+    },
+    {
+      "name": "green_header",
+      "path": "Assets/RobotArenaArt/UI/NineSlice/green_header.png",
+      "border_lbrt": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "source_size": [
+        128,
+        32
+      ],
+      "minimum_size": [
+        16,
+        16
+      ],
+      "preferred_center_mode": "tile",
+      "parts": {
+        "tl": "Assets/RobotArenaArt/UI/NineSlice/Parts/green_header/tl.png",
+        "t": "Assets/RobotArenaArt/UI/NineSlice/Parts/green_header/t.png",
+        "tr": "Assets/RobotArenaArt/UI/NineSlice/Parts/green_header/tr.png",
+        "l": "Assets/RobotArenaArt/UI/NineSlice/Parts/green_header/l.png",
+        "c": "Assets/RobotArenaArt/UI/NineSlice/Parts/green_header/c.png",
+        "r": "Assets/RobotArenaArt/UI/NineSlice/Parts/green_header/r.png",
+        "bl": "Assets/RobotArenaArt/UI/NineSlice/Parts/green_header/bl.png",
+        "b": "Assets/RobotArenaArt/UI/NineSlice/Parts/green_header/b.png",
+        "br": "Assets/RobotArenaArt/UI/NineSlice/Parts/green_header/br.png"
+      }
+    },
+    {
+      "name": "orange_button_normal",
+      "path": "Assets/RobotArenaArt/UI/NineSlice/orange_button_normal.png",
+      "border_lbrt": [
+        20,
+        20,
+        20,
+        20
+      ],
+      "source_size": [
+        128,
+        64
+      ],
+      "minimum_size": [
+        40,
+        40
+      ],
+      "preferred_center_mode": "tile",
+      "parts": {
+        "tl": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_normal/tl.png",
+        "t": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_normal/t.png",
+        "tr": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_normal/tr.png",
+        "l": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_normal/l.png",
+        "c": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_normal/c.png",
+        "r": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_normal/r.png",
+        "bl": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_normal/bl.png",
+        "b": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_normal/b.png",
+        "br": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_normal/br.png"
+      }
+    },
+    {
+      "name": "orange_button_hover",
+      "path": "Assets/RobotArenaArt/UI/NineSlice/orange_button_hover.png",
+      "border_lbrt": [
+        20,
+        20,
+        20,
+        20
+      ],
+      "source_size": [
+        128,
+        64
+      ],
+      "minimum_size": [
+        40,
+        40
+      ],
+      "preferred_center_mode": "tile",
+      "parts": {
+        "tl": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_hover/tl.png",
+        "t": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_hover/t.png",
+        "tr": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_hover/tr.png",
+        "l": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_hover/l.png",
+        "c": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_hover/c.png",
+        "r": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_hover/r.png",
+        "bl": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_hover/bl.png",
+        "b": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_hover/b.png",
+        "br": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_hover/br.png"
+      }
+    },
+    {
+      "name": "orange_button_pressed",
+      "path": "Assets/RobotArenaArt/UI/NineSlice/orange_button_pressed.png",
+      "border_lbrt": [
+        20,
+        20,
+        20,
+        20
+      ],
+      "source_size": [
+        128,
+        64
+      ],
+      "minimum_size": [
+        40,
+        40
+      ],
+      "preferred_center_mode": "tile",
+      "parts": {
+        "tl": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_pressed/tl.png",
+        "t": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_pressed/t.png",
+        "tr": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_pressed/tr.png",
+        "l": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_pressed/l.png",
+        "c": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_pressed/c.png",
+        "r": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_pressed/r.png",
+        "bl": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_pressed/bl.png",
+        "b": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_pressed/b.png",
+        "br": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_pressed/br.png"
+      }
+    },
+    {
+      "name": "orange_button_disabled",
+      "path": "Assets/RobotArenaArt/UI/NineSlice/orange_button_disabled.png",
+      "border_lbrt": [
+        20,
+        20,
+        20,
+        20
+      ],
+      "source_size": [
+        128,
+        64
+      ],
+      "minimum_size": [
+        40,
+        40
+      ],
+      "preferred_center_mode": "tile",
+      "parts": {
+        "tl": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_disabled/tl.png",
+        "t": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_disabled/t.png",
+        "tr": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_disabled/tr.png",
+        "l": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_disabled/l.png",
+        "c": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_disabled/c.png",
+        "r": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_disabled/r.png",
+        "bl": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_disabled/bl.png",
+        "b": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_disabled/b.png",
+        "br": "Assets/RobotArenaArt/UI/NineSlice/Parts/orange_button_disabled/br.png"
+      }
+    },
+    {
+      "name": "cream_button_normal",
+      "path": "Assets/RobotArenaArt/UI/NineSlice/cream_button_normal.png",
+      "border_lbrt": [
+        20,
+        20,
+        20,
+        20
+      ],
+      "source_size": [
+        128,
+        64
+      ],
+      "minimum_size": [
+        40,
+        40
+      ],
+      "preferred_center_mode": "tile",
+      "parts": {
+        "tl": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_normal/tl.png",
+        "t": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_normal/t.png",
+        "tr": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_normal/tr.png",
+        "l": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_normal/l.png",
+        "c": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_normal/c.png",
+        "r": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_normal/r.png",
+        "bl": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_normal/bl.png",
+        "b": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_normal/b.png",
+        "br": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_normal/br.png"
+      }
+    },
+    {
+      "name": "square_button_normal",
+      "path": "Assets/RobotArenaArt/UI/NineSlice/square_button_normal.png",
+      "border_lbrt": [
+        20,
+        20,
+        20,
+        20
+      ],
+      "source_size": [
+        64,
+        64
+      ],
+      "minimum_size": [
+        40,
+        40
+      ],
+      "preferred_center_mode": "tile",
+      "parts": {
+        "tl": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_normal/tl.png",
+        "t": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_normal/t.png",
+        "tr": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_normal/tr.png",
+        "l": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_normal/l.png",
+        "c": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_normal/c.png",
+        "r": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_normal/r.png",
+        "bl": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_normal/bl.png",
+        "b": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_normal/b.png",
+        "br": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_normal/br.png"
+      }
+    },
+    {
+      "name": "cream_button_hover",
+      "path": "Assets/RobotArenaArt/UI/NineSlice/cream_button_hover.png",
+      "border_lbrt": [
+        20,
+        20,
+        20,
+        20
+      ],
+      "source_size": [
+        128,
+        64
+      ],
+      "minimum_size": [
+        40,
+        40
+      ],
+      "preferred_center_mode": "tile",
+      "parts": {
+        "tl": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_hover/tl.png",
+        "t": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_hover/t.png",
+        "tr": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_hover/tr.png",
+        "l": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_hover/l.png",
+        "c": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_hover/c.png",
+        "r": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_hover/r.png",
+        "bl": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_hover/bl.png",
+        "b": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_hover/b.png",
+        "br": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_hover/br.png"
+      }
+    },
+    {
+      "name": "square_button_hover",
+      "path": "Assets/RobotArenaArt/UI/NineSlice/square_button_hover.png",
+      "border_lbrt": [
+        20,
+        20,
+        20,
+        20
+      ],
+      "source_size": [
+        64,
+        64
+      ],
+      "minimum_size": [
+        40,
+        40
+      ],
+      "preferred_center_mode": "tile",
+      "parts": {
+        "tl": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_hover/tl.png",
+        "t": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_hover/t.png",
+        "tr": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_hover/tr.png",
+        "l": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_hover/l.png",
+        "c": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_hover/c.png",
+        "r": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_hover/r.png",
+        "bl": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_hover/bl.png",
+        "b": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_hover/b.png",
+        "br": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_hover/br.png"
+      }
+    },
+    {
+      "name": "cream_button_pressed",
+      "path": "Assets/RobotArenaArt/UI/NineSlice/cream_button_pressed.png",
+      "border_lbrt": [
+        20,
+        20,
+        20,
+        20
+      ],
+      "source_size": [
+        128,
+        64
+      ],
+      "minimum_size": [
+        40,
+        40
+      ],
+      "preferred_center_mode": "tile",
+      "parts": {
+        "tl": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_pressed/tl.png",
+        "t": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_pressed/t.png",
+        "tr": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_pressed/tr.png",
+        "l": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_pressed/l.png",
+        "c": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_pressed/c.png",
+        "r": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_pressed/r.png",
+        "bl": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_pressed/bl.png",
+        "b": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_pressed/b.png",
+        "br": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_pressed/br.png"
+      }
+    },
+    {
+      "name": "square_button_pressed",
+      "path": "Assets/RobotArenaArt/UI/NineSlice/square_button_pressed.png",
+      "border_lbrt": [
+        20,
+        20,
+        20,
+        20
+      ],
+      "source_size": [
+        64,
+        64
+      ],
+      "minimum_size": [
+        40,
+        40
+      ],
+      "preferred_center_mode": "tile",
+      "parts": {
+        "tl": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_pressed/tl.png",
+        "t": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_pressed/t.png",
+        "tr": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_pressed/tr.png",
+        "l": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_pressed/l.png",
+        "c": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_pressed/c.png",
+        "r": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_pressed/r.png",
+        "bl": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_pressed/bl.png",
+        "b": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_pressed/b.png",
+        "br": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_pressed/br.png"
+      }
+    },
+    {
+      "name": "cream_button_disabled",
+      "path": "Assets/RobotArenaArt/UI/NineSlice/cream_button_disabled.png",
+      "border_lbrt": [
+        20,
+        20,
+        20,
+        20
+      ],
+      "source_size": [
+        128,
+        64
+      ],
+      "minimum_size": [
+        40,
+        40
+      ],
+      "preferred_center_mode": "tile",
+      "parts": {
+        "tl": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_disabled/tl.png",
+        "t": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_disabled/t.png",
+        "tr": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_disabled/tr.png",
+        "l": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_disabled/l.png",
+        "c": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_disabled/c.png",
+        "r": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_disabled/r.png",
+        "bl": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_disabled/bl.png",
+        "b": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_disabled/b.png",
+        "br": "Assets/RobotArenaArt/UI/NineSlice/Parts/cream_button_disabled/br.png"
+      }
+    },
+    {
+      "name": "square_button_disabled",
+      "path": "Assets/RobotArenaArt/UI/NineSlice/square_button_disabled.png",
+      "border_lbrt": [
+        20,
+        20,
+        20,
+        20
+      ],
+      "source_size": [
+        64,
+        64
+      ],
+      "minimum_size": [
+        40,
+        40
+      ],
+      "preferred_center_mode": "tile",
+      "parts": {
+        "tl": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_disabled/tl.png",
+        "t": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_disabled/t.png",
+        "tr": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_disabled/tr.png",
+        "l": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_disabled/l.png",
+        "c": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_disabled/c.png",
+        "r": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_disabled/r.png",
+        "bl": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_disabled/bl.png",
+        "b": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_disabled/b.png",
+        "br": "Assets/RobotArenaArt/UI/NineSlice/Parts/square_button_disabled/br.png"
+      }
+    },
+    {
+      "name": "inventory_slot_normal",
+      "path": "Assets/RobotArenaArt/UI/NineSlice/inventory_slot_normal.png",
+      "border_lbrt": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "source_size": [
+        80,
+        80
+      ],
+      "minimum_size": [
+        16,
+        16
+      ],
+      "preferred_center_mode": "tile",
+      "parts": {
+        "tl": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_normal/tl.png",
+        "t": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_normal/t.png",
+        "tr": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_normal/tr.png",
+        "l": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_normal/l.png",
+        "c": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_normal/c.png",
+        "r": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_normal/r.png",
+        "bl": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_normal/bl.png",
+        "b": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_normal/b.png",
+        "br": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_normal/br.png"
+      }
+    },
+    {
+      "name": "inventory_slot_hover",
+      "path": "Assets/RobotArenaArt/UI/NineSlice/inventory_slot_hover.png",
+      "border_lbrt": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "source_size": [
+        80,
+        80
+      ],
+      "minimum_size": [
+        16,
+        16
+      ],
+      "preferred_center_mode": "tile",
+      "parts": {
+        "tl": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_hover/tl.png",
+        "t": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_hover/t.png",
+        "tr": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_hover/tr.png",
+        "l": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_hover/l.png",
+        "c": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_hover/c.png",
+        "r": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_hover/r.png",
+        "bl": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_hover/bl.png",
+        "b": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_hover/b.png",
+        "br": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_hover/br.png"
+      }
+    },
+    {
+      "name": "inventory_slot_pressed",
+      "path": "Assets/RobotArenaArt/UI/NineSlice/inventory_slot_pressed.png",
+      "border_lbrt": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "source_size": [
+        80,
+        80
+      ],
+      "minimum_size": [
+        16,
+        16
+      ],
+      "preferred_center_mode": "tile",
+      "parts": {
+        "tl": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_pressed/tl.png",
+        "t": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_pressed/t.png",
+        "tr": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_pressed/tr.png",
+        "l": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_pressed/l.png",
+        "c": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_pressed/c.png",
+        "r": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_pressed/r.png",
+        "bl": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_pressed/bl.png",
+        "b": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_pressed/b.png",
+        "br": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_pressed/br.png"
+      }
+    },
+    {
+      "name": "inventory_slot_disabled",
+      "path": "Assets/RobotArenaArt/UI/NineSlice/inventory_slot_disabled.png",
+      "border_lbrt": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "source_size": [
+        80,
+        80
+      ],
+      "minimum_size": [
+        16,
+        16
+      ],
+      "preferred_center_mode": "tile",
+      "parts": {
+        "tl": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_disabled/tl.png",
+        "t": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_disabled/t.png",
+        "tr": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_disabled/tr.png",
+        "l": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_disabled/l.png",
+        "c": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_disabled/c.png",
+        "r": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_disabled/r.png",
+        "bl": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_disabled/bl.png",
+        "b": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_disabled/b.png",
+        "br": "Assets/RobotArenaArt/UI/NineSlice/Parts/inventory_slot_disabled/br.png"
+      }
+    },
+    {
+      "name": "mat_border",
+      "path": "Assets/RobotArenaArt/UI/NineSlice/mat_border.png",
+      "border_lbrt": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "source_size": [
+        64,
+        64
+      ],
+      "minimum_size": [
+        16,
+        16
+      ],
+      "preferred_center_mode": "tile",
+      "parts": {
+        "tl": "Assets/RobotArenaArt/UI/NineSlice/Parts/mat_border/tl.png",
+        "t": "Assets/RobotArenaArt/UI/NineSlice/Parts/mat_border/t.png",
+        "tr": "Assets/RobotArenaArt/UI/NineSlice/Parts/mat_border/tr.png",
+        "l": "Assets/RobotArenaArt/UI/NineSlice/Parts/mat_border/l.png",
+        "c": "Assets/RobotArenaArt/UI/NineSlice/Parts/mat_border/c.png",
+        "r": "Assets/RobotArenaArt/UI/NineSlice/Parts/mat_border/r.png",
+        "bl": "Assets/RobotArenaArt/UI/NineSlice/Parts/mat_border/bl.png",
+        "b": "Assets/RobotArenaArt/UI/NineSlice/Parts/mat_border/b.png",
+        "br": "Assets/RobotArenaArt/UI/NineSlice/Parts/mat_border/br.png"
+      }
+    },
+    {
+      "path": "Assets/RobotArenaArt/UI/Bars/Frames/hud.png",
+      "border_lbrt": [
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "path": "Assets/RobotArenaArt/UI/Bars/Frames/builder.png",
+      "border_lbrt": [
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "path": "Assets/RobotArenaArt/UI/Bars/Frames/world.png",
+      "border_lbrt": [
+        2,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "path": "Assets/RobotArenaArt/UI/Loading/progress_track.png",
+      "border_lbrt": [
+        4,
+        4,
+        4,
+        4
+      ]
+    }
+  ]
+}

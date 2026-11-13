@@ -1,0 +1,265 @@
+{
+  "checks": [
+    {
+      "id": 1,
+      "checks": [
+        {
+          "robot_size": [
+            1,
+            1
+          ],
+          "valid_anchor_count": 1840,
+          "component_sizes": [
+            1840
+          ],
+          "fully_connected": true,
+          "spawn_anchors_clear": true
+        },
+        {
+          "robot_size": [
+            2,
+            2
+          ],
+          "valid_anchor_count": 1653,
+          "component_sizes": [
+            1653
+          ],
+          "fully_connected": true,
+          "spawn_anchors_clear": true
+        },
+        {
+          "robot_size": [
+            3,
+            3
+          ],
+          "valid_anchor_count": 1452,
+          "component_sizes": [
+            1452
+          ],
+          "fully_connected": true,
+          "spawn_anchors_clear": true
+        },
+        {
+          "robot_size": [
+            4,
+            4
+          ],
+          "valid_anchor_count": 1237,
+          "component_sizes": [
+            1237
+          ],
+          "fully_connected": true,
+          "spawn_anchors_clear": true
+        },
+        {
+          "robot_size": [
+            5,
+            5
+          ],
+          "valid_anchor_count": 1008,
+          "component_sizes": [
+            1008
+          ],
+          "fully_connected": true,
+          "spawn_anchors_clear": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "checks": [
+        {
+          "robot_size": [
+            1,
+            1
+          ],
+          "valid_anchor_count": 1828,
+          "component_sizes": [
+            1828
+          ],
+          "fully_connected": true,
+          "spawn_anchors_clear": true
+        },
+        {
+          "robot_size": [
+            2,
+            2
+          ],
+          "valid_anchor_count": 1637,
+          "component_sizes": [
+            1637
+          ],
+          "fully_connected": true,
+          "spawn_anchors_clear": true
+        },
+        {
+          "robot_size": [
+            3,
+            3
+          ],
+          "valid_anchor_count": 1440,
+          "component_sizes": [
+            1440
+          ],
+          "fully_connected": true,
+          "spawn_anchors_clear": true
+        },
+        {
+          "robot_size": [
+            4,
+            4
+          ],
+          "valid_anchor_count": 1237,
+          "component_sizes": [
+            1237
+          ],
+          "fully_connected": true,
+          "spawn_anchors_clear": true
+        },
+        {
+          "robot_size": [
+            5,
+            5
+          ],
+          "valid_anchor_count": 1028,
+          "component_sizes": [
+            1028
+          ],
+          "fully_connected": true,
+          "spawn_anchors_clear": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "checks": [
+        {
+          "robot_size": [
+            1,
+            1
+          ],
+          "valid_anchor_count": 1776,
+          "component_sizes": [
+            1776
+          ],
+          "fully_connected": true,
+          "spawn_anchors_clear": true
+        },
+        {
+          "robot_size": [
+            2,
+            2
+          ],
+          "valid_anchor_count": 1601,
+          "component_sizes": [
+            1601
+          ],
+          "fully_connected": true,
+          "spawn_anchors_clear": true
+        },
+        {
+          "robot_size": [
+            3,
+            3
+          ],
+          "valid_anchor_count": 1428,
+          "component_sizes": [
+            1428
+          ],
+          "fully_connected": true,
+          "spawn_anchors_clear": true
+        },
+        {
+          "robot_size": [
+            4,
+            4
+          ],
+          "valid_anchor_count": 1253,
+          "component_sizes": [
+            1253
+          ],
+          "fully_connected": true,
+          "spawn_anchors_clear": true
+        },
+        {
+          "robot_size": [
+            5,
+            5
+          ],
+          "valid_anchor_count": 1076,
+          "component_sizes": [
+            1076
+          ],
+          "fully_connected": true,
+          "spawn_anchors_clear": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "checks": [
+        {
+          "robot_size": [
+            1,
+            1
+          ],
+          "valid_anchor_count": 1834,
+          "component_sizes": [
+            1834
+          ],
+          "fully_connected": true,
+          "spawn_anchors_clear": true
+        },
+        {
+          "robot_size": [
+            2,
+            2
+          ],
+          "valid_anchor_count": 1645,
+          "component_sizes": [
+            1645
+          ],
+          "fully_connected": true,
+          "spawn_anchors_clear": true
+        },
+        {
+          "robot_size": [
+            3,
+            3
+          ],
+          "valid_anchor_count": 1438,
+          "component_sizes": [
+            1438
+          ],
+          "fully_connected": true,
+          "spawn_anchors_clear": true
+        },
+        {
+          "robot_size": [
+            4,
+            4
+          ],
+          "valid_anchor_count": 1213,
+          "component_sizes": [
+            1213
+          ],
+          "fully_connected": true,
+          "spawn_anchors_clear": true
+        },
+        {
+          "robot_size": [
+            5,
+            5
+          ],
+          "valid_anchor_count": 984,
+          "component_sizes": [
+            984
+          ],
+          "fully_connected": true,
+          "spawn_anchors_clear": true
+        }
+      ]
+    }
+  ],
+  "method": "Grid configuration-space flood fill, all valid anchors, four-neighbor movement, square footprints1..5; visual walls and collision are the same occupied64px cells."
+}

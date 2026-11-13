@@ -1,0 +1,148 @@
+{
+  "modules": [
+    {
+      "name": "core",
+      "id": "MOD-01",
+      "footprint": [
+        1,
+        1
+      ],
+      "energy_cost": 0,
+      "battery_capacity": 0,
+      "player": "Assets/RobotArenaArt/Modules/Player/core.png",
+      "enemy": "Assets/RobotArenaArt/Modules/Enemy/core.png",
+      "disabled": "Assets/RobotArenaArt/Modules/Disabled/core.png",
+      "disabled_enemy": "Assets/RobotArenaArt/Modules/EnemyDisabled/core.png",
+      "team_mask": "Assets/RobotArenaArt/Modules/Masks/core_team.png",
+      "rotate_base": false
+    },
+    {
+      "name": "chassis",
+      "id": "MOD-02",
+      "footprint": [
+        1,
+        1
+      ],
+      "energy_cost": 1,
+      "battery_capacity": 0,
+      "player": "Assets/RobotArenaArt/Modules/Player/chassis.png",
+      "enemy": "Assets/RobotArenaArt/Modules/Enemy/chassis.png",
+      "disabled": "Assets/RobotArenaArt/Modules/Disabled/chassis.png",
+      "disabled_enemy": "Assets/RobotArenaArt/Modules/EnemyDisabled/chassis.png",
+      "team_mask": "Assets/RobotArenaArt/Modules/Masks/chassis_team.png",
+      "rotate_base": false
+    },
+    {
+      "name": "armor",
+      "id": "MOD-03",
+      "footprint": [
+        1,
+        1
+      ],
+      "energy_cost": 1,
+      "battery_capacity": 0,
+      "player": "Assets/RobotArenaArt/Modules/Player/armor.png",
+      "enemy": "Assets/RobotArenaArt/Modules/Enemy/armor.png",
+      "disabled": "Assets/RobotArenaArt/Modules/Disabled/armor.png",
+      "disabled_enemy": "Assets/RobotArenaArt/Modules/EnemyDisabled/armor.png",
+      "team_mask": "Assets/RobotArenaArt/Modules/Masks/armor_team.png",
+      "rotate_base": false
+    },
+    {
+      "name": "battery",
+      "id": "MOD-04",
+      "footprint": [
+        1,
+        1
+      ],
+      "energy_cost": 0,
+      "battery_capacity": 5,
+      "player": "Assets/RobotArenaArt/Modules/Player/battery.png",
+      "enemy": "Assets/RobotArenaArt/Modules/Enemy/battery.png",
+      "disabled": "Assets/RobotArenaArt/Modules/Disabled/battery.png",
+      "disabled_enemy": "Assets/RobotArenaArt/Modules/EnemyDisabled/battery.png",
+      "team_mask": "Assets/RobotArenaArt/Modules/Masks/battery_team.png",
+      "rotate_base": false
+    },
+    {
+      "name": "machinegun",
+      "id": "MOD-05",
+      "footprint": [
+        1,
+        1
+      ],
+      "energy_cost": 1,
+      "battery_capacity": 0,
+      "player": "Assets/RobotArenaArt/Modules/Player/machinegun.png",
+      "enemy": "Assets/RobotArenaArt/Modules/Enemy/machinegun.png",
+      "disabled": "Assets/RobotArenaArt/Modules/Disabled/machinegun.png",
+      "disabled_enemy": "Assets/RobotArenaArt/Modules/EnemyDisabled/machinegun.png",
+      "team_mask": "Assets/RobotArenaArt/Modules/Masks/machinegun_team.png",
+      "rotate_base": false
+    },
+    {
+      "name": "rifle",
+      "id": "MOD-06",
+      "footprint": [
+        1,
+        2
+      ],
+      "energy_cost": 2,
+      "battery_capacity": 0,
+      "player": "Assets/RobotArenaArt/Modules/Player/rifle.png",
+      "enemy": "Assets/RobotArenaArt/Modules/Enemy/rifle.png",
+      "disabled": "Assets/RobotArenaArt/Modules/Disabled/rifle.png",
+      "disabled_enemy": "Assets/RobotArenaArt/Modules/EnemyDisabled/rifle.png",
+      "team_mask": "Assets/RobotArenaArt/Modules/Masks/rifle_team.png",
+      "rotate_base": false
+    },
+    {
+      "name": "grenade",
+      "id": "MOD-07",
+      "footprint": [
+        2,
+        2
+      ],
+      "energy_cost": 4,
+      "battery_capacity": 0,
+      "player": "Assets/RobotArenaArt/Modules/Player/grenade.png",
+      "enemy": "Assets/RobotArenaArt/Modules/Enemy/grenade.png",
+      "disabled": "Assets/RobotArenaArt/Modules/Disabled/grenade.png",
+      "disabled_enemy": "Assets/RobotArenaArt/Modules/EnemyDisabled/grenade.png",
+      "team_mask": "Assets/RobotArenaArt/Modules/Masks/grenade_team.png",
+      "rotate_base": false
+    },
+    {
+      "name": "shotgun",
+      "id": "MOD-08",
+      "footprint": [
+        1,
+        1
+      ],
+      "energy_cost": 1,
+      "battery_capacity": 0,
+      "player": "Assets/RobotArenaArt/Modules/Player/shotgun.png",
+      "enemy": "Assets/RobotArenaArt/Modules/Enemy/shotgun.png",
+      "disabled": "Assets/RobotArenaArt/Modules/Disabled/shotgun.png",
+      "disabled_enemy": "Assets/RobotArenaArt/Modules/EnemyDisabled/shotgun.png",
+      "team_mask": "Assets/RobotArenaArt/Modules/Masks/shotgun_team.png",
+      "rotate_base": false
+    },
+    {
+      "name": "shield",
+      "id": "MOD-09",
+      "footprint": [
+        2,
+        2
+      ],
+      "energy_cost": 4,
+      "battery_capacity": 0,
+      "player": "Assets/RobotArenaArt/Modules/Player/shield.png",
+      "enemy": "Assets/RobotArenaArt/Modules/Enemy/shield.png",
+      "disabled": "Assets/RobotArenaArt/Modules/Disabled/shield.png",
+      "disabled_enemy": "Assets/RobotArenaArt/Modules/EnemyDisabled/shield.png",
+      "team_mask": "Assets/RobotArenaArt/Modules/Masks/shield_team.png",
+      "rotate_base": false
+    }
+  ]
+}

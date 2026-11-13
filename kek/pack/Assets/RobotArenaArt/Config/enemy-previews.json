@@ -1,0 +1,930 @@
+{
+  "source": "robot-arena-game-design.md section19.3",
+  "note": "These are documented starting proposals, not new permanent enemy balancing. Rebuild previews when modules change.",
+  "enemies": [
+    {
+      "level": 1,
+      "grid": [
+        [
+          "E1",
+          "C1",
+          "..",
+          "..",
+          ".."
+        ],
+        [
+          "Q1",
+          "M1",
+          "C2",
+          "..",
+          ".."
+        ],
+        [
+          "..",
+          "..",
+          "..",
+          "..",
+          ".."
+        ],
+        [
+          "..",
+          "..",
+          "..",
+          "..",
+          ".."
+        ],
+        [
+          "..",
+          "..",
+          "..",
+          "..",
+          ".."
+        ]
+      ],
+      "modules": [
+        {
+          "instance": "E1",
+          "module": "battery",
+          "grid_x": 0,
+          "grid_y": 0
+        },
+        {
+          "instance": "C1",
+          "module": "chassis",
+          "grid_x": 1,
+          "grid_y": 0
+        },
+        {
+          "instance": "Q1",
+          "module": "core",
+          "grid_x": 0,
+          "grid_y": 1
+        },
+        {
+          "instance": "M1",
+          "module": "machinegun",
+          "grid_x": 1,
+          "grid_y": 1
+        },
+        {
+          "instance": "C2",
+          "module": "chassis",
+          "grid_x": 2,
+          "grid_y": 1
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "grid": [
+        [
+          "A1",
+          "C1",
+          "A2",
+          "..",
+          ".."
+        ],
+        [
+          "E1",
+          "Q1",
+          "M1",
+          "C2",
+          ".."
+        ],
+        [
+          "..",
+          "..",
+          "..",
+          "..",
+          ".."
+        ],
+        [
+          "..",
+          "..",
+          "..",
+          "..",
+          ".."
+        ],
+        [
+          "..",
+          "..",
+          "..",
+          "..",
+          ".."
+        ]
+      ],
+      "modules": [
+        {
+          "instance": "A1",
+          "module": "armor",
+          "grid_x": 0,
+          "grid_y": 0
+        },
+        {
+          "instance": "C1",
+          "module": "chassis",
+          "grid_x": 1,
+          "grid_y": 0
+        },
+        {
+          "instance": "A2",
+          "module": "armor",
+          "grid_x": 2,
+          "grid_y": 0
+        },
+        {
+          "instance": "E1",
+          "module": "battery",
+          "grid_x": 0,
+          "grid_y": 1
+        },
+        {
+          "instance": "Q1",
+          "module": "core",
+          "grid_x": 1,
+          "grid_y": 1
+        },
+        {
+          "instance": "M1",
+          "module": "machinegun",
+          "grid_x": 2,
+          "grid_y": 1
+        },
+        {
+          "instance": "C2",
+          "module": "chassis",
+          "grid_x": 3,
+          "grid_y": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "grid": [
+        [
+          "C1",
+          "A1",
+          "..",
+          "..",
+          ".."
+        ],
+        [
+          "S1",
+          "Q1",
+          "S2",
+          "..",
+          ".."
+        ],
+        [
+          "..",
+          "E1",
+          "..",
+          "..",
+          ".."
+        ],
+        [
+          "..",
+          "..",
+          "..",
+          "..",
+          ".."
+        ],
+        [
+          "..",
+          "..",
+          "..",
+          "..",
+          ".."
+        ]
+      ],
+      "modules": [
+        {
+          "instance": "C1",
+          "module": "chassis",
+          "grid_x": 0,
+          "grid_y": 0
+        },
+        {
+          "instance": "A1",
+          "module": "armor",
+          "grid_x": 1,
+          "grid_y": 0
+        },
+        {
+          "instance": "S1",
+          "module": "shotgun",
+          "grid_x": 0,
+          "grid_y": 1
+        },
+        {
+          "instance": "Q1",
+          "module": "core",
+          "grid_x": 1,
+          "grid_y": 1
+        },
+        {
+          "instance": "S2",
+          "module": "shotgun",
+          "grid_x": 2,
+          "grid_y": 1
+        },
+        {
+          "instance": "E1",
+          "module": "battery",
+          "grid_x": 1,
+          "grid_y": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "grid": [
+        [
+          "R1",
+          "R2",
+          "R3",
+          "..",
+          ".."
+        ],
+        [
+          "R1",
+          "R2",
+          "R3",
+          "..",
+          ".."
+        ],
+        [
+          "C1",
+          "Q1",
+          "C2",
+          "..",
+          ".."
+        ],
+        [
+          "E1",
+          "A1",
+          "E2",
+          "..",
+          ".."
+        ],
+        [
+          "..",
+          "..",
+          "..",
+          "..",
+          ".."
+        ]
+      ],
+      "modules": [
+        {
+          "instance": "R1",
+          "module": "rifle",
+          "grid_x": 0,
+          "grid_y": 0
+        },
+        {
+          "instance": "R2",
+          "module": "rifle",
+          "grid_x": 1,
+          "grid_y": 0
+        },
+        {
+          "instance": "R3",
+          "module": "rifle",
+          "grid_x": 2,
+          "grid_y": 0
+        },
+        {
+          "instance": "C1",
+          "module": "chassis",
+          "grid_x": 0,
+          "grid_y": 2
+        },
+        {
+          "instance": "Q1",
+          "module": "core",
+          "grid_x": 1,
+          "grid_y": 2
+        },
+        {
+          "instance": "C2",
+          "module": "chassis",
+          "grid_x": 2,
+          "grid_y": 2
+        },
+        {
+          "instance": "E1",
+          "module": "battery",
+          "grid_x": 0,
+          "grid_y": 3
+        },
+        {
+          "instance": "A1",
+          "module": "armor",
+          "grid_x": 1,
+          "grid_y": 3
+        },
+        {
+          "instance": "E2",
+          "module": "battery",
+          "grid_x": 2,
+          "grid_y": 3
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "grid": [
+        [
+          "..",
+          "A1",
+          "A2",
+          "..",
+          ".."
+        ],
+        [
+          "A3",
+          "C1",
+          "Q1",
+          "C2",
+          "A4"
+        ],
+        [
+          "..",
+          "M1",
+          "E1",
+          "M2",
+          "E2"
+        ],
+        [
+          "..",
+          "..",
+          "..",
+          "..",
+          ".."
+        ],
+        [
+          "..",
+          "..",
+          "..",
+          "..",
+          ".."
+        ]
+      ],
+      "modules": [
+        {
+          "instance": "A1",
+          "module": "armor",
+          "grid_x": 1,
+          "grid_y": 0
+        },
+        {
+          "instance": "A2",
+          "module": "armor",
+          "grid_x": 2,
+          "grid_y": 0
+        },
+        {
+          "instance": "A3",
+          "module": "armor",
+          "grid_x": 0,
+          "grid_y": 1
+        },
+        {
+          "instance": "C1",
+          "module": "chassis",
+          "grid_x": 1,
+          "grid_y": 1
+        },
+        {
+          "instance": "Q1",
+          "module": "core",
+          "grid_x": 2,
+          "grid_y": 1
+        },
+        {
+          "instance": "C2",
+          "module": "chassis",
+          "grid_x": 3,
+          "grid_y": 1
+        },
+        {
+          "instance": "A4",
+          "module": "armor",
+          "grid_x": 4,
+          "grid_y": 1
+        },
+        {
+          "instance": "M1",
+          "module": "machinegun",
+          "grid_x": 1,
+          "grid_y": 2
+        },
+        {
+          "instance": "E1",
+          "module": "battery",
+          "grid_x": 2,
+          "grid_y": 2
+        },
+        {
+          "instance": "M2",
+          "module": "machinegun",
+          "grid_x": 3,
+          "grid_y": 2
+        },
+        {
+          "instance": "E2",
+          "module": "battery",
+          "grid_x": 4,
+          "grid_y": 2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "grid": [
+        [
+          "A1",
+          "C1",
+          "..",
+          "..",
+          ".."
+        ],
+        [
+          "R1",
+          "Q1",
+          "H1",
+          "H1",
+          ".."
+        ],
+        [
+          "R1",
+          "E1",
+          "H1",
+          "H1",
+          ".."
+        ],
+        [
+          "..",
+          "E2",
+          "..",
+          "..",
+          ".."
+        ],
+        [
+          "..",
+          "..",
+          "..",
+          "..",
+          ".."
+        ]
+      ],
+      "modules": [
+        {
+          "instance": "A1",
+          "module": "armor",
+          "grid_x": 0,
+          "grid_y": 0
+        },
+        {
+          "instance": "C1",
+          "module": "chassis",
+          "grid_x": 1,
+          "grid_y": 0
+        },
+        {
+          "instance": "R1",
+          "module": "rifle",
+          "grid_x": 0,
+          "grid_y": 1
+        },
+        {
+          "instance": "Q1",
+          "module": "core",
+          "grid_x": 1,
+          "grid_y": 1
+        },
+        {
+          "instance": "H1",
+          "module": "shield",
+          "grid_x": 2,
+          "grid_y": 1
+        },
+        {
+          "instance": "E1",
+          "module": "battery",
+          "grid_x": 1,
+          "grid_y": 2
+        },
+        {
+          "instance": "E2",
+          "module": "battery",
+          "grid_x": 1,
+          "grid_y": 3
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "grid": [
+        [
+          "G1",
+          "G1",
+          "A1",
+          "..",
+          ".."
+        ],
+        [
+          "G1",
+          "G1",
+          "Q1",
+          "M1",
+          ".."
+        ],
+        [
+          "C1",
+          "E1",
+          "C2",
+          "E2",
+          "M2"
+        ],
+        [
+          "..",
+          "A2",
+          "..",
+          "..",
+          ".."
+        ],
+        [
+          "..",
+          "..",
+          "..",
+          "..",
+          ".."
+        ]
+      ],
+      "modules": [
+        {
+          "instance": "G1",
+          "module": "grenade",
+          "grid_x": 0,
+          "grid_y": 0
+        },
+        {
+          "instance": "A1",
+          "module": "armor",
+          "grid_x": 2,
+          "grid_y": 0
+        },
+        {
+          "instance": "Q1",
+          "module": "core",
+          "grid_x": 2,
+          "grid_y": 1
+        },
+        {
+          "instance": "M1",
+          "module": "machinegun",
+          "grid_x": 3,
+          "grid_y": 1
+        },
+        {
+          "instance": "C1",
+          "module": "chassis",
+          "grid_x": 0,
+          "grid_y": 2
+        },
+        {
+          "instance": "E1",
+          "module": "battery",
+          "grid_x": 1,
+          "grid_y": 2
+        },
+        {
+          "instance": "C2",
+          "module": "chassis",
+          "grid_x": 2,
+          "grid_y": 2
+        },
+        {
+          "instance": "E2",
+          "module": "battery",
+          "grid_x": 3,
+          "grid_y": 2
+        },
+        {
+          "instance": "M2",
+          "module": "machinegun",
+          "grid_x": 4,
+          "grid_y": 2
+        },
+        {
+          "instance": "A2",
+          "module": "armor",
+          "grid_x": 1,
+          "grid_y": 3
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "grid": [
+        [
+          "..",
+          "A1",
+          "..",
+          "..",
+          ".."
+        ],
+        [
+          "S1",
+          "Q1",
+          "E1",
+          "..",
+          ".."
+        ],
+        [
+          "..",
+          "..",
+          "..",
+          "..",
+          ".."
+        ],
+        [
+          "..",
+          "..",
+          "..",
+          "..",
+          ".."
+        ],
+        [
+          "..",
+          "..",
+          "..",
+          "..",
+          ".."
+        ]
+      ],
+      "modules": [
+        {
+          "instance": "A1",
+          "module": "armor",
+          "grid_x": 1,
+          "grid_y": 0
+        },
+        {
+          "instance": "S1",
+          "module": "shotgun",
+          "grid_x": 0,
+          "grid_y": 1
+        },
+        {
+          "instance": "Q1",
+          "module": "core",
+          "grid_x": 1,
+          "grid_y": 1
+        },
+        {
+          "instance": "E1",
+          "module": "battery",
+          "grid_x": 2,
+          "grid_y": 1
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "grid": [
+        [
+          "A1",
+          "..",
+          "..",
+          "..",
+          "A2"
+        ],
+        [
+          "R1",
+          "..",
+          "E3",
+          "..",
+          "R2"
+        ],
+        [
+          "R1",
+          "C1",
+          "Q1",
+          "C2",
+          "R2"
+        ],
+        [
+          "..",
+          "E1",
+          "H1",
+          "H1",
+          ".."
+        ],
+        [
+          "..",
+          "E2",
+          "H1",
+          "H1",
+          ".."
+        ]
+      ],
+      "modules": [
+        {
+          "instance": "A1",
+          "module": "armor",
+          "grid_x": 0,
+          "grid_y": 0
+        },
+        {
+          "instance": "A2",
+          "module": "armor",
+          "grid_x": 4,
+          "grid_y": 0
+        },
+        {
+          "instance": "R1",
+          "module": "rifle",
+          "grid_x": 0,
+          "grid_y": 1
+        },
+        {
+          "instance": "E3",
+          "module": "battery",
+          "grid_x": 2,
+          "grid_y": 1
+        },
+        {
+          "instance": "R2",
+          "module": "rifle",
+          "grid_x": 4,
+          "grid_y": 1
+        },
+        {
+          "instance": "C1",
+          "module": "chassis",
+          "grid_x": 1,
+          "grid_y": 2
+        },
+        {
+          "instance": "Q1",
+          "module": "core",
+          "grid_x": 2,
+          "grid_y": 2
+        },
+        {
+          "instance": "C2",
+          "module": "chassis",
+          "grid_x": 3,
+          "grid_y": 2
+        },
+        {
+          "instance": "E1",
+          "module": "battery",
+          "grid_x": 1,
+          "grid_y": 3
+        },
+        {
+          "instance": "H1",
+          "module": "shield",
+          "grid_x": 2,
+          "grid_y": 3
+        },
+        {
+          "instance": "E2",
+          "module": "battery",
+          "grid_x": 1,
+          "grid_y": 4
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "grid": [
+        [
+          "G1",
+          "G1",
+          "A1",
+          "R1",
+          ".."
+        ],
+        [
+          "G1",
+          "G1",
+          "Q1",
+          "R1",
+          "M1"
+        ],
+        [
+          "E1",
+          "C1",
+          "A2",
+          "C2",
+          "E2"
+        ],
+        [
+          "E3",
+          "H1",
+          "H1",
+          "A3",
+          "E4"
+        ],
+        [
+          "..",
+          "H1",
+          "H1",
+          "..",
+          ".."
+        ]
+      ],
+      "modules": [
+        {
+          "instance": "G1",
+          "module": "grenade",
+          "grid_x": 0,
+          "grid_y": 0
+        },
+        {
+          "instance": "A1",
+          "module": "armor",
+          "grid_x": 2,
+          "grid_y": 0
+        },
+        {
+          "instance": "R1",
+          "module": "rifle",
+          "grid_x": 3,
+          "grid_y": 0
+        },
+        {
+          "instance": "Q1",
+          "module": "core",
+          "grid_x": 2,
+          "grid_y": 1
+        },
+        {
+          "instance": "M1",
+          "module": "machinegun",
+          "grid_x": 4,
+          "grid_y": 1
+        },
+        {
+          "instance": "E1",
+          "module": "battery",
+          "grid_x": 0,
+          "grid_y": 2
+        },
+        {
+          "instance": "C1",
+          "module": "chassis",
+          "grid_x": 1,
+          "grid_y": 2
+        },
+        {
+          "instance": "A2",
+          "module": "armor",
+          "grid_x": 2,
+          "grid_y": 2
+        },
+        {
+          "instance": "C2",
+          "module": "chassis",
+          "grid_x": 3,
+          "grid_y": 2
+        },
+        {
+          "instance": "E2",
+          "module": "battery",
+          "grid_x": 4,
+          "grid_y": 2
+        },
+        {
+          "instance": "E3",
+          "module": "battery",
+          "grid_x": 0,
+          "grid_y": 3
+        },
+        {
+          "instance": "H1",
+          "module": "shield",
+          "grid_x": 1,
+          "grid_y": 3
+        },
+        {
+          "instance": "A3",
+          "module": "armor",
+          "grid_x": 3,
+          "grid_y": 3
+        },
+        {
+          "instance": "E4",
+          "module": "battery",
+          "grid_x": 4,
+          "grid_y": 3
+        }
+      ]
+    }
+  ]
+}
